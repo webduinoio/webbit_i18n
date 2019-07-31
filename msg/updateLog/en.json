@@ -1,0 +1,48 @@
+[
+  {
+    "date": "2018/9/21",
+    "content": [
+      {
+        "type": "Add",
+        "text": "Infrared module"
+      },
+      {
+        "type": "Add",
+        "text": "LED blocks"
+      },
+      {
+        "type": "Add",
+        "text": "RGB LED blocks"
+      },
+      {
+        "type": "Add",
+        "text": "Relay blocks"
+      },
+      {
+        "type": "Update",
+        "text": "mpu9250 blocks"
+      }
+    ]
+  },
+  {
+    "date": "2018/8/8",
+    "content": [
+      {
+        "type": "Notice",
+        "text": "Due to block performance optimization, please use OTA to update the Webduino Bit to the latest version. (Reference：<a href='https://bit.webduino.io/site/en/docs/setting.html' target='_blank'>OTA</a>)"
+      },
+      {
+        "type": "Revise",
+        "text": "Bit Blockly Beta is enabled. Shared link save for 7 days in Bit Blockly Trial, but Beta doesn't have this limitation."
+      },
+      {
+        "type": "Revise",
+        "text": "Custom blocks support in Bit Blockly Beta, but not in Trial."
+      },
+      {
+        "type": "Upgrade",
+        "text": "Performance optimization of LED Matrix."
+      }
+    ]
+  }
+]

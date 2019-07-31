@@ -1,0 +1,1 @@
+MSG.catBasicPackage = "Basic Package";

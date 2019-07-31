@@ -1,0 +1,48 @@
+[
+  {
+    "date": "2018/9/21",
+    "content": [
+      {
+        "type": "新增",
+        "text": "红外线模组"
+      },
+      {
+        "type": "新增",
+        "text": "LED 积木"
+      },
+      {
+        "type": "新增",
+        "text": "三色 LED 积木"
+      },
+      {
+        "type": "新增",
+        "text": "继电器积木"
+      },
+      {
+        "type": "更新",
+        "text": "mpu9250 积木"
+      }
+    ]
+  }, 
+  {
+    "date": "2018/8/8",
+    "content": [
+      {
+        "type": "注意",
+        "text": "由于积木效能调整，请将 Webduino Bit 使用 OTA 更新为最新版本韧体。 (请参考：<a href='https://bit.webduino.io/site/zh_cn/docs/setting.html' target='_blank'>OTA 教学</a>)"
+      },
+      {
+        "type": "改版",
+        "text": "Bit Blockly Beta 版启用，Trial 体验版的分享连结改为七天有效时间，超过期间不储存，永久储存功能请使用 Beta 版。"
+      },
+      {
+        "type": "改版",
+        "text": "Bit Blockly Beta 版支援自订积木功能，Trial 体验版不支援，若要使用自订积木请使用 Beta 版本。"
+      },
+      {
+        "type": "升级",
+        "text": "全彩点矩阵积木效能优化调整。"
+      }
+    ]
+  }
+]
