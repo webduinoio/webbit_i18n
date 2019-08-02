@@ -1,0 +1,36 @@
+{
+  "components": {
+    "arduinoUno": { "label": "Arduino UNO" },
+    "webduinoBit": {
+      "label": "Webduino Bit",
+      "mpu9250Group": {
+        "turnLeft": "Turn left",
+        "turnRight": "Turn right",
+        "pitchLeft": "Pitch left",
+        "pitchRight": "Pitch right",
+        "rowBack": "Row back",
+        "rowFront": "Row front",
+        "faceBack": "Face back",
+        "faceFront": "Face front",
+        "shake": "Shake"
+      }
+    },
+    "smart": { "label": "Smart" },
+    "led": { "label": "LED" },
+    "servo": { "label": "Servo Motor" },
+    "matrix": { "label": "LED Matrix" },
+    "rgbLed": { "label": "RGB LED" },
+    "button": { "label": "Button" },
+    "buzzer": { "label": "Buzzer" },
+    "ultraSonic": { "label": "Ultra Sonic" },
+    "hand": { "label": "Hand" },
+    "breadboard": { "label": "BreadBoard" },
+    "ws2812": { "label": "LED Matrix" },
+    "photocell": { "label": "Photocell" },
+    "bulb": { "label": "Bulb" },
+    "dht11": { "label": "DHT11" },
+    "fire": { "label": "Fire" },
+    "water": { "label": "Water" },
+    "thermistor": { "label": "Thermistor" }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "components": {
+    "arduinoUno": { "label": "Arduino UNO" },
+    "webduinoBit": {
+      "label": "Webduino Bit",
+      "mpu9250Group": {
+        "turnLeft": "向左旋轉",
+        "turnRight": "向右旋轉",
+        "pitchLeft": "向左翻轉",
+        "pitchRight": "向右翻轉",
+        "rowBack": "向後翻轉",
+        "rowFront": "向前翻轉",
+        "faceBack": "背面朝上",
+        "faceFront": "正面朝上",
+        "shake": "晃動"
+      }
+    },
+    "smart": { "label": "Smart" },
+    "led": { "label": "LED 燈" },
+    "servo": { "label": "伺服馬達" },
+    "matrix": { "label": "LED 點矩陣" },
+    "rgbLed": { "label": "三色 LED" },
+    "button": { "label": "按鈕" },
+    "buzzer": { "label": "蜂鳴器" },
+    "ultraSonic": { "label": "超音波" },
+    "hand": { "label": "手" },
+    "breadboard": { "label": "麵包板" },
+    "ws2812": { "label": "全彩点矩阵" },
+    "photocell": { "label": "光敏電阻" },
+    "bulb": { "label": "電燈炮" },
+    "dht11": { "label": "溫溼度傳感器" },
+    "fire": { "label": "火焰" },
+    "water": { "label": "水滴" },
+    "thermistor": { "label": "熱敏電阻" }
+  }
+}
