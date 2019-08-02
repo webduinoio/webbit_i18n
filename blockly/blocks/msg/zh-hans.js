@@ -1320,7 +1320,7 @@ Blockly.Msg.BIT_DETECTED_PHOTOCELL_LEFT = "左上";
 Blockly.Msg.BIT_DETECTED_PHOTOCELL_RIGHT = "右上";
 Blockly.Msg.BIT_DETECTED_PHOTOCELL_VAL = "的数值 ( 流明 )";
 Blockly.Msg.BIT_DETECTED_PHOTOCELL_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/photocell-thermistor.html#pt01";
-Blockly.Msg.BIT_DETECTED_TEMP = "温度的数值 ( 度 C )";
+Blockly.Msg.BIT_DETECTED_TEMP = "温度的数值 ( °C )";
 Blockly.Msg.BIT_DETECTED_TEMP_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/photocell-thermistor.html#pt02";
 
 // Web:Bit - Buzzer

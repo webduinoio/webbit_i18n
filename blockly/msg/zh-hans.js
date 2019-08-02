@@ -252,6 +252,7 @@ var MSG = {
   loginToUseCustomBlock: "请先登录账号！",
   loadProjectFailed: "无法读取存档",
   loginToReadLink: "请登录后，再重新开启链接！",
+  imgUrl: "图片位址",
   linkExpired: "链接失效",
   catBitLedMatrix: "LED 矩阵",
   catBitPin: "I/O 引脚",

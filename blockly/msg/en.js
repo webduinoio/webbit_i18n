@@ -248,6 +248,7 @@ var MSG = {
   loginToUseCustomBlock: "Please login platform.",
   loadProjectFailed: "Failed to read file",
   loginToReadLink: "Please login platform. Then enter the url again!",
+  imgUrl: "image Url",
   linkExpired: "Link expired.",
   catBitLedMatrix: "Matrix LED",
   catBitPin: "I/O Pin",

@@ -249,6 +249,7 @@ var MSG = {
   loginToUseCustomBlock: "請先登入平台！",
   loadProjectFailed: "無法讀取存檔",
   loginToReadLink: "請登入平台，再重新開啟連結！",
+  imgUrl: "圖片網址",
   linkExpired: "連結失效",
   catBitLedMatrix: "矩陣 LED",
   catBitPin: "I/O 引腳",
