@@ -314,228 +314,228 @@ var MSG = {
       s01: {
         text: "小怪兽说话",
         img: "samples/zh-hans/s0-01.jpg",
-        json: "samples/s0-01.json"
+        json: "samples/zh-hans/s0-01.json"
       },
       s02: {
         text: "电机小怪兽就会放大",
         img: "samples/zh-hans/s0-02.jpg",
-        json: "samples/s0-02.json"
+        json: "samples/zh-hans/s0-02.json"
       },
       s03: {
         text: "键盘控制小怪兽",
         img: "samples/zh-hans/s0-03.jpg",
-        json: "samples/s0-03.json"
+        json: "samples/zh-hans/s0-03.json"
       },
       s04: {
         text: "小怪兽自动旋转",
         img: "samples/zh-hans/s0-04.jpg",
-        json: "samples/s0-04.json"
+        json: "samples/zh-hans/s0-04.json"
       },
       s05: {
         text: "小怪兽移动时碰到边缘反弹",
         img: "samples/zh-hans/s0-05.jpg",
-        json: "samples/s0-05.json"
+        json: "samples/zh-hans/s0-05.json"
       },
       s06: {
         text: "小怪兽报时 ( 小时钟 )",
         img: "samples/zh-hans/s0-06.jpg",
-        json: "samples/s0-06.json"
+        json: "samples/zh-hans/s0-06.json"
       },
       s07: {
         text: "小怪兽比较数字大小",
         img: "samples/zh-hans/s0-07.jpg",
-        json: "samples/s0-07.json"
+        json: "samples/zh-hans/s0-07.json"
       },
       s08: {
         text: "小怪兽说出随机内容",
         img: "samples/zh-hans/s0-08.jpg",
-        json: "samples/s0-08.json"
+        json: "samples/zh-hans/s0-08.json"
       },
       s09: {
         text: "小怪兽上下移动",
         img: "samples/zh-hans/s0-09.jpg",
-        json: "samples/s0-09.json"
+        json: "samples/zh-hans/s0-09.json"
       },
       s10: {
         text: "点击小怪兽说话发声",
         img: "samples/zh-hans/s0-10.jpg",
-        json: "samples/s0-10.json"
+        json: "samples/zh-hans/s0-10.json"
       },
       s11: {
         text: "小怪兽跟随鼠标移动并旋转",
         img: "samples/zh-hans/s0-11.jpg",
-        json: "samples/s0-11.json"
+        json: "samples/zh-hans/s0-11.json"
       },
       s12: {
         text: "点击小怪兽发出各种音效",
         img: "samples/zh-hans/s0-12.jpg",
-        json: "samples/s0-12.json"
+        json: "samples/zh-hans/s0-12.json"
       }
     },
     s1: {
       s01: {
         text: "小怪兽边移动边旋转",
         img: "samples/zh-hans/s1-01.jpg",
-        json: "samples/s1-01.json"
+        json: "samples/zh-hans/s1-01.json"
       },
       s02: {
         text: "小怪兽自动依序改变尺寸",
         img: "samples/zh-hans/s1-02.jpg",
-        json: "samples/s1-02.json"
+        json: "samples/zh-hans/s1-02.json"
       },
       s03: {
         text: "声控改变小怪兽尺寸",
         img: "samples/zh-hans/s1-03.jpg",
-        json: "samples/s1-03.json"
+        json: "samples/zh-hans/s1-03.json"
       },
       s04: {
         text: "乐透电脑自动选号",
         img: "samples/zh-hans/s1-04.jpg",
-        json: "samples/s1-04.json"
+        json: "samples/zh-hans/s1-04.json"
       },
       s05: {
         text: "小怪兽依序说话",
         img: "samples/zh-hans/s1-05.jpg",
-        json: "samples/s1-05.json"
+        json: "samples/zh-hans/s1-05.json"
       },
       s06: {
         text: "依序输入文本让小怪兽说话",
         img: "samples/zh-hans/s1-06.jpg",
-        json: "samples/s1-06.json"
+        json: "samples/zh-hans/s1-06.json"
       },
       s07: {
         text: "输入文本指定小怪兽说话",
         img: "samples/zh-hans/s1-07.jpg",
-        json: "samples/s1-07.json"
+        json: "samples/zh-hans/s1-07.json"
       },
       s08: {
         text: "小怪兽连续问答",
         img: "samples/zh-hans/s1-08.jpg",
-        json: "samples/s1-08.json"
+        json: "samples/zh-hans/s1-08.json"
       },
       s09: {
         text: "小怪兽学九九乘法表",
         img: "samples/zh-hans/s1-09.jpg",
-        json: "samples/s1-09.json"
+        json: "samples/zh-hans/s1-09.json"
       },
       s10: {
         text: "小怪兽语音朗读稿件",
         img: "samples/zh-hans/s1-10.jpg",
-        json: "samples/s1-10.json"
+        json: "samples/zh-hans/s1-10.json"
       },
       s11: {
         text: "键盘控制小怪兽，碰到其他小怪兽就说话",
         img: "samples/zh-hans/s1-11.jpg",
-        json: "samples/s1-11.json"
+        json: "samples/zh-hans/s1-11.json"
       },
       s12: {
         text: "小怪兽描述舞台尺寸，改变高度时改变颜色",
         img: "samples/zh-hans/s1-12.jpg",
-        json: "samples/s1-12.json"
+        json: "samples/zh-hans/s1-12.json"
       }
     },
     bits: {
       s01: {
         text: "LED 矩阵展示图形",
         img: "samples/zh-hans/bit-s-01.jpg",
-        json: "samples/bit-s-01.json"
+        json: "samples/zh-hans/bit-s-01.json"
       },
       s02: {
         text: "LED 矩阵心跳动画",
         img: "samples/zh-hans/bit-s-02.jpg",
-        json: "samples/bit-s-02.json"
+        json: "samples/zh-hans/bit-s-02.json"
       },
       s03: {
         text: "点击小怪兽切换图案",
         img: "samples/zh-hans/bit-s-03.jpg",
-        json: "samples/bit-s-03.json"
+        json: "samples/zh-hans/bit-s-03.json"
       },
       s04: {
         text: "按钮开关切换见到见到、石头、布",
         img: "samples/zh-hans/bit-s-04.jpg",
-        json: "samples/bit-s-04.json"
+        json: "samples/zh-hans/bit-s-04.json"
       },
       s05: {
         text: "按钮开关控制小怪兽尺寸",
         img: "samples/zh-hans/bit-s-05.jpg",
-        json: "samples/bit-s-05.json"
+        json: "samples/zh-hans/bit-s-05.json"
       },
       s06: {
         text: "按钮开关控制小怪兽自动旋转、停止旋转",
         img: "samples/zh-hans/bit-s-06.jpg",
-        json: "samples/bit-s-06.json"
+        json: "samples/zh-hans/bit-s-06.json"
       },
       s07: {
         text: "小怪兽说出光照度和温度",
         img: "samples/zh-hans/bit-s-07.jpg",
-        json: "samples/bit-s-07.json"
+        json: "samples/zh-hans/bit-s-07.json"
       },
       s08: {
         text: "光照度切换LED 矩阵图形",
         img: "samples/zh-hans/bit-s-08.jpg",
-        json: "samples/bit-s-08.json"
+        json: "samples/zh-hans/bit-s-08.json"
       },
       s09: {
         text: "蜂鸣器播放音乐",
         img: "samples/zh-hans/bit-s-09.jpg",
-        json: "samples/bit-s-09.json"
+        json: "samples/zh-hans/bit-s-09.json"
       },
       s10: {
         text: "点击不同小怪兽，播放不同音乐",
         img: "samples/zh-hans/bit-s-10.jpg",
-        json: "samples/bit-s-10.json"
+        json: "samples/zh-hans/bit-s-10.json"
       },
       s11: {
         text: "旋转开发板切换图案",
         img: "samples/zh-hans/bit-s-11.jpg",
-        json: "samples/bit-s-11.json"
+        json: "samples/zh-hans/bit-s-11.json"
       },
       s12: {
         text: "电子骰子",
         img: "samples/zh-hans/bit-s-12.jpg",
-        json: "samples/bit-s-12.json"
+        json: "samples/zh-hans/bit-s-12.json"
       }
     },
     bita: {
       s01: {
         text: "输入文本控制灯号",
         img: "samples/zh-hans/bit-a-01.jpg",
-        json: "samples/bit-a-01.json"
+        json: "samples/zh-hans/bit-a-01.json"
       },
       s02: {
         text: "灯号依序水平移动",
         img: "samples/zh-hans/bit-a-02.jpg",
-        json: "samples/bit-a-02.json"
+        json: "samples/zh-hans/bit-a-02.json"
       },
       s03: {
         text: "灯号依序绕着四周移动",
         img: "samples/zh-hans/bit-a-03.jpg",
-        json: "samples/bit-a-03.json"
+        json: "samples/zh-hans/bit-a-03.json"
       },
       s04: {
         text: "灯号水平反弹移动",
         img: "samples/zh-hans/bit-a-04.jpg",
-        json: "samples/bit-a-04.json"
+        json: "samples/zh-hans/bit-a-04.json"
       },
       s05: {
         text: "灯号反弹球效果",
         img: "samples/zh-hans/bit-a-05.jpg",
-        json: "samples/bit-a-05.json"
+        json: "samples/zh-hans/bit-a-05.json"
       },
       s06: {
         text: "键盘操控灯号移动",
         img: "samples/zh-hans/bit-a-06.jpg",
-        json: "samples/bit-a-06.json"
+        json: "samples/zh-hans/bit-a-06.json"
       },
       s07: {
         text: "转动开发板控制灯号移动",
         img: "samples/zh-hans/bit-a-07.jpg",
-        json: "samples/bit-a-07.json"
+        json: "samples/zh-hans/bit-a-07.json"
       },
       s08: {
         text: "加速度拳力检测器",
         img: "samples/zh-hans/bit-a-08.jpg",
-        json: "samples/bit-a-08.json"
+        json: "samples/zh-hans/bit-a-08.json"
       },
     }
   }

@@ -310,228 +310,228 @@ var MSG = {
       s01: {
         text: "小怪獸講話",
         img: "samples/en/s0-01.jpg",
-        json: "samples/s0-01.json"
+        json: "samples/en/s0-01.json"
       },
       s02: {
         text: "點擊小怪獸就會放大",
         img: "samples/en/s0-02.jpg",
-        json: "samples/s0-02.json"
+        json: "samples/en/s0-02.json"
       },
       s03: {
         text: "鍵盤控制小怪獸",
         img: "samples/en/s0-03.jpg",
-        json: "samples/s0-03.json"
+        json: "samples/en/s0-03.json"
       },
       s04: {
         text: "小怪獸自動旋轉",
         img: "samples/en/s0-04.jpg",
-        json: "samples/s0-04.json"
+        json: "samples/en/s0-04.json"
       },
       s05: {
         text: "小怪獸移動時碰到邊緣反彈",
         img: "samples/en/s0-05.jpg",
-        json: "samples/s0-05.json"
+        json: "samples/en/s0-05.json"
       },
       s06: {
         text: "小怪獸報時 ( 小時鐘 )",
         img: "samples/en/s0-06.jpg",
-        json: "samples/s0-06.json"
+        json: "samples/en/s0-06.json"
       },
       s07: {
         text: "小怪獸比賽數字大小",
         img: "samples/en/s0-07.jpg",
-        json: "samples/s0-07.json"
+        json: "samples/en/s0-07.json"
       },
       s08: {
         text: "小怪獸講出隨機話語",
         img: "samples/en/s0-08.jpg",
-        json: "samples/s0-08.json"
+        json: "samples/en/s0-08.json"
       },
       s09: {
         text: "小怪獸上下移動",
         img: "samples/en/s0-09.jpg",
-        json: "samples/s0-09.json"
+        json: "samples/en/s0-09.json"
       },
       s10: {
         text: "點擊小怪獸講話發聲",
         img: "samples/en/s0-10.jpg",
-        json: "samples/s0-10.json"
+        json: "samples/en/s0-10.json"
       },
       s11: {
         text: "小怪獸跟著滑鼠移動並旋轉",
         img: "samples/en/s0-11.jpg",
-        json: "samples/s0-11.json"
+        json: "samples/en/s0-11.json"
       },
       s12: {
         text: "點擊小怪獸發出各種音效",
         img: "samples/en/s0-12.jpg",
-        json: "samples/s0-12.json"
+        json: "samples/en/s0-12.json"
       }
     },
     s1: {
       s01: {
         text: "小怪獸邊移動邊旋轉",
         img: "samples/en/s1-01.jpg",
-        json: "samples/s1-01.json"
+        json: "samples/en/s1-01.json"
       },
       s02: {
         text: "小怪獸自動依序改變尺寸",
         img: "samples/en/s1-02.jpg",
-        json: "samples/s1-02.json"
+        json: "samples/en/s1-02.json"
       },
       s03: {
         text: "聲控改變小怪獸尺寸",
         img: "samples/en/s1-03.jpg",
-        json: "samples/s1-03.json"
+        json: "samples/en/s1-03.json"
       },
       s04: {
         text: "樂透電腦自動選號",
         img: "samples/en/s1-04.jpg",
-        json: "samples/s1-04.json"
+        json: "samples/en/s1-04.json"
       },
       s05: {
         text: "小怪獸依序講話",
         img: "samples/en/s1-05.jpg",
-        json: "samples/s1-05.json"
+        json: "samples/en/s1-05.json"
       },
       s06: {
         text: "依序輸入文字讓小怪獸講話",
         img: "samples/en/s1-06.jpg",
-        json: "samples/s1-06.json"
+        json: "samples/en/s1-06.json"
       },
       s07: {
         text: "輸入文字指定小怪獸講話",
         img: "samples/en/s1-07.jpg",
-        json: "samples/s1-07.json"
+        json: "samples/en/s1-07.json"
       },
       s08: {
         text: "小怪獸連續問答",
         img: "samples/en/s1-08.jpg",
-        json: "samples/s1-08.json"
+        json: "samples/en/s1-08.json"
       },
       s09: {
         text: "小怪獸學九九乘法",
         img: "samples/en/s1-09.jpg",
-        json: "samples/s1-09.json"
+        json: "samples/en/s1-09.json"
       },
       s10: {
         text: "小怪獸語音朗讀逐字稿",
         img: "samples/en/s1-10.jpg",
-        json: "samples/s1-10.json"
+        json: "samples/en/s1-10.json"
       },
       s11: {
         text: "鍵盤操控小怪獸，碰到其他小怪獸就說話",
         img: "samples/en/s1-11.jpg",
-        json: "samples/s1-11.json"
+        json: "samples/en/s1-11.json"
       },
       s12: {
         text: "小怪獸描述舞台尺寸，改變高度時改變顏色",
         img: "samples/en/s1-12.jpg",
-        json: "samples/s1-12.json"
+        json: "samples/en/s1-12.json"
       }
     },
     bits: {
       s01: {
         text: "矩陣 LED 顯示圖形",
         img: "samples/en/bit-s-01.jpg",
-        json: "samples/bit-s-01.json"
+        json: "samples/en/bit-s-01.json"
       },
       s02: {
         text: "矩陣 LED 心跳動畫",
         img: "samples/en/bit-s-02.jpg",
-        json: "samples/bit-s-02.json"
+        json: "samples/en/bit-s-02.json"
       },
       s03: {
         text: "點擊小怪獸切換圖案",
         img: "samples/en/bit-s-03.jpg",
-        json: "samples/bit-s-03.json"
+        json: "samples/en/bit-s-03.json"
       },
       s04: {
         text: "按鈕開關切換剪刀、石頭、布",
         img: "samples/en/bit-s-04.jpg",
-        json: "samples/bit-s-04.json"
+        json: "samples/en/bit-s-04.json"
       },
       s05: {
         text: "按鈕開關控制小怪獸尺寸",
         img: "samples/en/bit-s-05.jpg",
-        json: "samples/bit-s-05.json"
+        json: "samples/en/bit-s-05.json"
       },
       s06: {
         text: "按鈕開關控制小怪獸自動旋轉、停止旋轉",
         img: "samples/en/bit-s-06.jpg",
-        json: "samples/bit-s-06.json"
+        json: "samples/en/bit-s-06.json"
       },
       s07: {
         text: "小怪獸講出光度和溫度",
         img: "samples/en/bit-s-07.jpg",
-        json: "samples/bit-s-07.json"
+        json: "samples/en/bit-s-07.json"
       },
       s08: {
         text: "光度切換矩陣 LED 圖形",
         img: "samples/en/bit-s-08.jpg",
-        json: "samples/bit-s-08.json"
+        json: "samples/en/bit-s-08.json"
       },
       s09: {
         text: "蜂鳴器播放音樂",
         img: "samples/en/bit-s-09.jpg",
-        json: "samples/bit-s-09.json"
+        json: "samples/en/bit-s-09.json"
       },
       s10: {
         text: "點擊不同小怪獸，播放不同音樂",
         img: "samples/en/bit-s-10.jpg",
-        json: "samples/bit-s-10.json"
+        json: "samples/en/bit-s-10.json"
       },
       s11: {
         text: "旋轉開發板切換圖案",
         img: "samples/en/bit-s-11.jpg",
-        json: "samples/bit-s-11.json"
+        json: "samples/en/bit-s-11.json"
       },
       s12: {
         text: "電子骰子",
         img: "samples/en/bit-s-12.jpg",
-        json: "samples/bit-s-12.json"
+        json: "samples/en/bit-s-12.json"
       }
     },
     bita: {
       s01: {
         text: "輸入文字控制燈號",
         img: "samples/en/bit-a-01.jpg",
-        json: "samples/bit-a-01.json"
+        json: "samples/en/bit-a-01.json"
       },
       s02: {
         text: "燈號依序水平移動",
         img: "samples/en/bit-a-02.jpg",
-        json: "samples/bit-a-02.json"
+        json: "samples/en/bit-a-02.json"
       },
       s03: {
         text: "燈號依序繞著周圍移動",
         img: "samples/en/bit-a-03.jpg",
-        json: "samples/bit-a-03.json"
+        json: "samples/en/bit-a-03.json"
       },
       s04: {
         text: "燈號水平反彈移動",
         img: "samples/en/bit-a-04.jpg",
-        json: "samples/bit-a-04.json"
+        json: "samples/en/bit-a-04.json"
       },
       s05: {
         text: "燈號反彈球效果",
         img: "samples/en/bit-a-05.jpg",
-        json: "samples/bit-a-05.json"
+        json: "samples/en/bit-a-05.json"
       },
       s06: {
         text: "鍵盤操控燈號移動",
         img: "samples/en/bit-a-06.jpg",
-        json: "samples/bit-a-06.json"
+        json: "samples/en/bit-a-06.json"
       },
       s07: {
         text: "轉動開發板控制燈號移動",
         img: "samples/en/bit-a-07.jpg",
-        json: "samples/bit-a-07.json"
+        json: "samples/en/bit-a-07.json"
       },
       s08: {
         text: "加速度拳力偵測器",
         img: "samples/en/bit-a-08.jpg",
-        json: "samples/bit-a-08.json"
+        json: "samples/en/bit-a-08.json"
       },
     }
   }
