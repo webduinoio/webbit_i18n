@@ -1378,10 +1378,10 @@ Blockly.Msg.BIT_MPU9250_VAL_ACCY = "y ( 加速度計 )";
 Blockly.Msg.BIT_MPU9250_VAL_ACCZ = "z ( 加速度計 )";
 Blockly.Msg.BIT_MPU9250_VAL_GYRX = "x ( 陀螺仪 )";
 Blockly.Msg.BIT_MPU9250_VAL_GYRY = "y ( 陀螺仪 )";
-Blockly.Msg.BIT_MPU9250_VAL_GYRX = "z ( 陀螺仪 )";
+Blockly.Msg.BIT_MPU9250_VAL_GYRZ = "z ( 陀螺仪 )";
 Blockly.Msg.BIT_MPU9250_VAL_MAGX = "x ( 磁力计 )";
 Blockly.Msg.BIT_MPU9250_VAL_MAGY = "y ( 磁力计 )";
-Blockly.Msg.BIT_MPU9250_VAL_MAGX = "z ( 磁力计 )";
+Blockly.Msg.BIT_MPU9250_VAL_MAGZ = "z ( 磁力计 )";
 Blockly.Msg.BIT_MPU9250_VAL = "的数值";
 Blockly.Msg.BIT_MPU9250_VAL_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/mpu9250.html#mpu02";
 
