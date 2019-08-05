@@ -1,7 +1,7 @@
 Blockly.Msg.WEBDUINO_G3_NEW = "细悬浮微粒传感器，接收引脚";
 Blockly.Msg.WEBDUINO_G3_TX = "传送引脚";
-Blockly.Msg.WEBDUINO_G3_GET = "侦测细悬浮微粒，每";
-Blockly.Msg.WEBDUINO_G3_READ = "侦测细悬浮微粒";
+Blockly.Msg.WEBDUINO_G3_GET = "检测细悬浮微粒，每";
+Blockly.Msg.WEBDUINO_G3_READ = "检测细悬浮微粒";
 Blockly.Msg.WEBDUINO_G3_GET_TIME = "毫秒 ( 1/1000 秒 ) 撷取一次";
 Blockly.Msg.WEBDUINO_G3_GET_DO = "执行";
 Blockly.Msg.WEBDUINO_G3_GET_NOW = "所测得目前的";

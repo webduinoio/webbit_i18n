@@ -181,7 +181,7 @@ Blockly.Msg.DEMO_CONTROLLER_SCREENSHOW = "遥控器萤幕";
 Blockly.Msg.DEMO_CONTROLLER_SCREENBG = "背景";
 Blockly.Msg.DEMO_CONTROLLER_SCREENTEXT = "文字";
 Blockly.Msg.DEMO_CONTROLLER_SCREENCOLOR = "颜色";
-Blockly.Msg.DEMO_CONTROLLER_MOBILE_DEVICEORIENTATION = "行动装置，侦测";
+Blockly.Msg.DEMO_CONTROLLER_MOBILE_DEVICEORIENTATION = "行动装置，检测";
 Blockly.Msg.DEMO_CONTROLLER_MOBILE_DEVICEORIENTATION_DO = "执行";
 Blockly.Msg.DEMO_CONTROLLER_MOBILE = "行动装置";
 Blockly.Msg.DEMO_CONTROLLER_MOBILE_DEVICEORIENTATION_ALPHA = "水平旋转";
@@ -189,7 +189,7 @@ Blockly.Msg.DEMO_CONTROLLER_MOBILE_DEVICEORIENTATION_BETA = "前后翻转";
 Blockly.Msg.DEMO_CONTROLLER_MOBILE_DEVICEORIENTATION_GAMMA = "左右翻转";
 Blockly.Msg.DEMO_CONTROLLER_MOBILE_DEVICEORIENTATION_VAL1 = "的数值 ( 小数点";
 Blockly.Msg.DEMO_CONTROLLER_MOBILE_DEVICEORIENTATION_VAL2 = "位 )";
-Blockly.Msg.DEMO_CONTROLLER_MOBILE_DEVICEORIENTATION_REMOVE = "停止侦测";
+Blockly.Msg.DEMO_CONTROLLER_MOBILE_DEVICEORIENTATION_REMOVE = "停止检测";
 Blockly.Msg.DEMO_CONTROLLER_MOBILE_ACCELERATION_X = "x";
 Blockly.Msg.DEMO_CONTROLLER_MOBILE_ACCELERATION_Y = "y";
 Blockly.Msg.DEMO_CONTROLLER_MOBILE_ACCELERATION_Z = "z";
@@ -308,10 +308,10 @@ Blockly.Msg.TEXTLOGIC_TEXT = "文字";
 
 // Keyboard
 
-Blockly.Msg.WEBDUINO_KEYBOARD = "开始侦测 键盘";
+Blockly.Msg.WEBDUINO_KEYBOARD = "开始检测 键盘";
 Blockly.Msg.WEBDUINO_KEYBOARD_KEYDOWN = "按下";
 Blockly.Msg.WEBDUINO_KEYBOARD_KEYUP = "放开";
-Blockly.Msg.WEBDUINO_KEYBOARD_STOP = "停止侦测 键盘行为";
+Blockly.Msg.WEBDUINO_KEYBOARD_STOP = "停止检测 键盘行为";
 Blockly.Msg.WEBDUINO_KEYBOARD_KEY = "按键";
 Blockly.Msg.WEBDUINO_KEYBOARD_DO = "，执行";
 Blockly.Msg.WEBDUINO_KEYBOARD_SPACE = "空白键";
@@ -345,7 +345,7 @@ Blockly.Msg.WEBDUINO_BOARD_MULTI = "  协同控制";
 Blockly.Msg.WEBDUINO_BOARD_CHAIN = "  串联";
 Blockly.Msg.WEBDUINO_BOARD_CHAIN_OK = "当开发板串连完成";
 Blockly.Msg.WEBDUINO_BOARD_CHAIN_DO = "执行";
-Blockly.Msg.WEBDUINO_QUERY_PIN = "侦测开发板引脚";
+Blockly.Msg.WEBDUINO_QUERY_PIN = "检测开发板引脚";
 Blockly.Msg.WEBDUINO_QUERY_PIN_NUM = "号 引脚";
 Blockly.Msg.WEBDUINO_PIN_DO = "执行";
 Blockly.Msg.WEBDUINO_PIN_STATE = "引脚状态";
@@ -425,11 +425,11 @@ Blockly.Msg.WEBDUINO_JOYSTICK_DO = '执行：';
 
 // PIR
 
-Blockly.Msg.WEBDUINO_PIR = "人体红外线侦测传感器，引脚";
+Blockly.Msg.WEBDUINO_PIR = "人体红外线检测传感器，引脚";
 Blockly.Msg.WEBDUINO_PIR_WHEN = "当";
 Blockly.Msg.WEBDUINO_PIR_STATUS_DETECTED = "有";
 Blockly.Msg.WEBDUINO_PIR_STATUS_ENDED = "没有";
-Blockly.Msg.WEBDUINO_PIR_DETECTED = "侦测到人体红外线变化";
+Blockly.Msg.WEBDUINO_PIR_DETECTED = "检测到人体红外线变化";
 Blockly.Msg.WEBDUINO_PIR_DO = "执行";
 
 // Max7219
@@ -472,11 +472,11 @@ Blockly.Msg.WEBDUINO_SSD1306_TEXT_SIZE = "OLED 设定字型大小 (1~7):";
 
 // Soil
 
-Blockly.Msg.WEBDUINO_SOIL = "土壤湿度侦测，模拟引脚：";
+Blockly.Msg.WEBDUINO_SOIL = "土壤湿度检测，模拟引脚：";
 Blockly.Msg.WEBDUINO_SOIL_DETECTED = "光敏(可变)电阻，模拟引脚";
 Blockly.Msg.WEBDUINO_SOIL_DO = "执行";
-Blockly.Msg.WEBDUINO_SOIL_VAL = "侦测的数值";
-Blockly.Msg.WEBDUINO_SOIL_STOP = "停止侦测";
+Blockly.Msg.WEBDUINO_SOIL_VAL = "检测的数值";
+Blockly.Msg.WEBDUINO_SOIL_STOP = "停止检测";
 
 // ADXL345
 
@@ -485,26 +485,26 @@ Blockly.Msg.WEBDUINO_ADXL345_SCL = "  SCL";
 Blockly.Msg.WEBDUINO_ADXL345_DO = "执行";
 Blockly.Msg.WEBDUINO_ADXL345_S = "的";
 Blockly.Msg.WEBDUINO_ADXL345_VAL = "数值";
-Blockly.Msg.WEBDUINO_START_DETECTING = "开始侦测";
-Blockly.Msg.WEBDUINO_STOP_DETECTING = "停止侦测";
+Blockly.Msg.WEBDUINO_START_DETECTING = "开始检测";
+Blockly.Msg.WEBDUINO_STOP_DETECTING = "停止检测";
 
 // HX711
 
 Blockly.Msg.WEBDUINO_HX711 = "电子秤，SCK";
 Blockly.Msg.WEBDUINO_HX711_DT = "  DT";
-Blockly.Msg.WEBDUINO_HX711_ON = "开始侦测";
+Blockly.Msg.WEBDUINO_HX711_ON = "开始检测";
 Blockly.Msg.WEBDUINO_HX711_DO = "执行";
 Blockly.Msg.WEBDUINO_HX711_VAL = "数值";
-Blockly.Msg.WEBDUINO_HX711_OFF = "停止侦测";
+Blockly.Msg.WEBDUINO_HX711_OFF = "停止检测";
 
 // Barcode
 
 Blockly.Msg.WEBDUINO_BARCODE = "条码机，Rx";
 Blockly.Msg.WEBDUINO_BARCODE_TX = "  Tx";
-Blockly.Msg.WEBDUINO_BARCODE_ON = "开始侦测";
+Blockly.Msg.WEBDUINO_BARCODE_ON = "开始检测";
 Blockly.Msg.WEBDUINO_BARCODE_DO = "执行";
 Blockly.Msg.WEBDUINO_BARCODE_VAL = "条码";
-Blockly.Msg.WEBDUINO_BARCODE_OFF = "停止侦测";
+Blockly.Msg.WEBDUINO_BARCODE_OFF = "停止检测";
 
 // Firebase
 
@@ -538,13 +538,13 @@ Blockly.Msg.WEBDUINO_FIREBASE_CREATE_OBJECT = "建立物件";
 
 // RFID
 
-Blockly.Msg.WEBDUINO_RFID_ON = "侦测到讯号";
-Blockly.Msg.WEBDUINO_RFID_UID = "所侦测到的代码";
-Blockly.Msg.WEBDUINO_RFID_UIDIS = "侦测到的代码为";
+Blockly.Msg.WEBDUINO_RFID_ON = "检测到讯号";
+Blockly.Msg.WEBDUINO_RFID_UID = "所检测到的代码";
+Blockly.Msg.WEBDUINO_RFID_UIDIS = "检测到的代码为";
 Blockly.Msg.WEBDUINO_RFID_IF = "如果";
 Blockly.Msg.WEBDUINO_RFID_DO = "执行";
 Blockly.Msg.WEBDUINO_RFID_OUT = "讯号离开";
-Blockly.Msg.WEBDUINO_RFID_OFF = "停止侦测";
+Blockly.Msg.WEBDUINO_RFID_OFF = "停止检测";
 
 /*
 .                   .                       o8o            oooo

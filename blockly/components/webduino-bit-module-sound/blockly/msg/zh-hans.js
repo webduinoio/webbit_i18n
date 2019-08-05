@@ -1,1 +1,1 @@
-MSG.catSound = "声音侦测";
+MSG.catSound = "声音检测";
