@@ -84,8 +84,8 @@ Blockly.Msg.COLOUR_BLEND_HELPURL= Blockly.Msg.COLOUR_PICKER_HELPURL;
 // Main
 
 Blockly.Msg.VARIABLES_SET = "设定 %1 为 %2";
-Blockly.Msg.LISTS_CREATE_WITH_INPUT_WITH = "建立列表";
-Blockly.Msg.TEXT_JOIN_TITLE_CREATEWITH = "建立字串";
+Blockly.Msg.LISTS_CREATE_WITH_INPUT_WITH = "建立数组";
+Blockly.Msg.TEXT_JOIN_TITLE_CREATEWITH = "建立字符串";
 
 // Math
 
@@ -104,7 +104,7 @@ Blockly.Msg.NUMBER_BINARY = "二进位";
 Blockly.Msg.NUMBER_OCTAL = "八进位";
 Blockly.Msg.NUMBER_DECTIMAL = "十进位";
 Blockly.Msg.NUMBER_HEX = "十六进位";
-Blockly.Msg.NUMBER_STRING = "字串";
+Blockly.Msg.NUMBER_STRING = "字符串";
 
 // Demo
 
@@ -201,7 +201,7 @@ Blockly.Msg.DEMO_CONTROLLER_MOBILE_TYPE2 = "加速度";
 Blockly.Msg.DEMO_CONTROLLER_CHART = "图表";
 Blockly.Msg.PIE_TITLE = "绘制圆饼图，标题";
 Blockly.Msg.PIE_SUB_TITLE = "子标题";
-Blockly.Msg.DEMO_PIE_DATA = "资料列表";
+Blockly.Msg.DEMO_PIE_DATA = "资料数组";
 Blockly.Msg.PIE_REFRESH = "更新圆饼图显示";
 Blockly.Msg.PIE_VALUE = "数值";
 Blockly.Msg.PIE_DESCRIPTION = "说明";
@@ -213,9 +213,9 @@ Blockly.Msg.PIE_AUTO_REFRESH_SEC = "秒自动更新圆饼图显示";
 Blockly.Msg.DATA_TRANSFER_SET = "设定";
 Blockly.Msg.DATA_TRANSFER_USE = "使用";
 Blockly.Msg.DATA_TRANSFER_FORMAT = "传输资料,资料格式为";
-Blockly.Msg.DATA_TRANSFER_SEND_STRING = "传送字串";
-Blockly.Msg.DATA_TRANSFER_RTN_STRING = "接收字串后执行";
-Blockly.Msg.DATA_TRANSFER_RECV_STRING = "接收的字串";
+Blockly.Msg.DATA_TRANSFER_SEND_STRING = "传送字符串";
+Blockly.Msg.DATA_TRANSFER_RTN_STRING = "接收字符串后执行";
+Blockly.Msg.DATA_TRANSFER_RECV_STRING = "接收的字符串";
 
 // Console
 
@@ -287,17 +287,17 @@ Blockly.Msg.WEBDUINO_SPEAK_R05 = "很慢";
 
 // Repeat
 
-Blockly.Msg.WEBDUINO_STATUS_REPEAT = "状态切换，重复";
+Blockly.Msg.WEBDUINO_STATUS_REPEAT = "状态切换，循环";
 Blockly.Msg.WEBDUINO_STATUS_NUM = "次";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_STATUSNUM = "状态 ";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_DELAY = " 持续";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_SECS = "秒";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_ADD = "加入状态";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_STATUS = "状态";
-Blockly.Msg.WEBDUINO_STATUS_FOREVER = "状态不停重复";
+Blockly.Msg.WEBDUINO_STATUS_FOREVER = "状态不停循环";
 Blockly.Msg.WEBDUINO_STATUS_FOREVER_NAME = "名称";
 Blockly.Msg.WEBDUINO_STATUS_REPEAT_STOP = "停止";
-Blockly.Msg.WEBDUINO_STATUS_REPEAT_STOPCONTENT = "的不停重复";
+Blockly.Msg.WEBDUINO_STATUS_REPEAT_STOPCONTENT = "的不停循环";
 
 // Text logic
 
@@ -337,21 +337,21 @@ Blockly.Msg.WEBDUINO_DELAY_SECONDS = "秒";
 Blockly.Msg.WEBDUINO_BOARD = "开发板";
 Blockly.Msg.WEBDUINO_BOARD_SERVER = "私有云 Server，IP";
 Blockly.Msg.WEBDUINO_BOARD_WIFI = "Wi-Fi";
-Blockly.Msg.WEBDUINO_BOARD_SERIAL = "序列埠";
-Blockly.Msg.WEBDUINO_BOARD_BLUETOOTH = "蓝芽";
+Blockly.Msg.WEBDUINO_BOARD_SERIAL = "串口";
+Blockly.Msg.WEBDUINO_BOARD_BLUETOOTH = "蓝牙";
 Blockly.Msg.WEBDUINO_BOARD_WEBSOCKET = "WebSocket";
 Blockly.Msg.WEBDUINO_BOARD_SIMULATOR = "模拟器";
 Blockly.Msg.WEBDUINO_BOARD_MULTI = "  协同控制";
 Blockly.Msg.WEBDUINO_BOARD_CHAIN = "  串联";
 Blockly.Msg.WEBDUINO_BOARD_CHAIN_OK = "当开发板串连完成";
 Blockly.Msg.WEBDUINO_BOARD_CHAIN_DO = "执行";
-Blockly.Msg.WEBDUINO_QUERY_PIN = "侦测开发板脚位";
-Blockly.Msg.WEBDUINO_QUERY_PIN_NUM = "号 脚位";
+Blockly.Msg.WEBDUINO_QUERY_PIN = "侦测开发板引脚";
+Blockly.Msg.WEBDUINO_QUERY_PIN_NUM = "号 引脚";
 Blockly.Msg.WEBDUINO_PIN_DO = "执行";
-Blockly.Msg.WEBDUINO_PIN_STATE = "脚位状态";
+Blockly.Msg.WEBDUINO_PIN_STATE = "引脚状态";
 Blockly.Msg.WEBDUINO_BOARD_IF_ERROR = "如果断线";
 Blockly.Msg.WEBDUINO_BOARD_ERROR_DO = "执行";
-Blockly.Msg.WEBDUINO_BOARD_SAMPLING = "  类比取样";
+Blockly.Msg.WEBDUINO_BOARD_SAMPLING = "  模拟取样";
 Blockly.Msg.WEBDUINO_SMART = "Smart";
 Blockly.Msg.WEBDUINO_USE = "使用";
 Blockly.Msg.WEBDUINO_CONNECT_TO = "连线至";
@@ -362,8 +362,8 @@ Blockly.Msg.WEBDUINO_FLY = "Fly";
 // LED
 
 Blockly.Msg.WEBDUINO_LED = "LED 灯";
-Blockly.Msg.WEBDUINO_PIN = "脚位";
-Blockly.Msg.WEBDUINO_LED_PIN = "，脚位";
+Blockly.Msg.WEBDUINO_PIN = "引脚";
+Blockly.Msg.WEBDUINO_LED_PIN = "，引脚";
 Blockly.Msg.WEBDUINO_LED_SET_STATE = "设定状态";
 Blockly.Msg.WEBDUINO_LED_TOGGLE = "切换状态";
 Blockly.Msg.WEBDUINO_LED_INTENSITY = "强度";
@@ -376,7 +376,7 @@ Blockly.Msg.WEBDUINO_LED_BLINK_DO = "每次闪烁执行";
 
 // Relay
 
-Blockly.Msg.WEBDUINO_RELAY = "继电器，脚位";
+Blockly.Msg.WEBDUINO_RELAY = "继电器，引脚";
 Blockly.Msg.WEBDUINO_RELAY_SET_STATE = "设定状态";
 
 // RGB
@@ -398,8 +398,8 @@ Blockly.Msg.WEBDUINO_SMART_SERVO_SET_SPEED = " , 速度";
 
 // Button
 
-Blockly.Msg.WEBDUINO_BUTTON_NEW = "按钮开关，脚位";
-Blockly.Msg.WEBDUINO_BUTTON_PULLUP_NEW = "上拉按钮开关，脚位";
+Blockly.Msg.WEBDUINO_BUTTON_NEW = "按钮开关，引脚";
+Blockly.Msg.WEBDUINO_BUTTON_PULLUP_NEW = "上拉按钮开关，引脚";
 Blockly.Msg.WEBDUINO_BUTTON_EVENT_WHEN = "当";
 Blockly.Msg.WEBDUINO_BUTTON_EVENT_WAS = "进行";
 Blockly.Msg.WEBDUINO_BUTTON_EVENT_TO = "时";
@@ -410,7 +410,7 @@ Blockly.Msg.WEBDUINO_BUTTON_EVENT_LONGPRESS = "长按";
 
 // Shock
 
-Blockly.Msg.WEBDUINO_SHOCK_NEW = "震动开关，脚位";
+Blockly.Msg.WEBDUINO_SHOCK_NEW = "震动开关，引脚";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_WHEN = "当";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_WAS = "状态为";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_TO = "时";
@@ -425,7 +425,7 @@ Blockly.Msg.WEBDUINO_JOYSTICK_DO = '执行：';
 
 // PIR
 
-Blockly.Msg.WEBDUINO_PIR = "人体红外线侦测传感器，脚位";
+Blockly.Msg.WEBDUINO_PIR = "人体红外线侦测传感器，引脚";
 Blockly.Msg.WEBDUINO_PIR_WHEN = "当";
 Blockly.Msg.WEBDUINO_PIR_STATUS_DETECTED = "有";
 Blockly.Msg.WEBDUINO_PIR_STATUS_ENDED = "没有";
@@ -441,7 +441,7 @@ Blockly.Msg.WEBDUINO_MATRIX_CLK = "  clk";
 Blockly.Msg.WEBDUINO_MATRIX_CODE = "显示图形，代码";
 Blockly.Msg.WEBDUINO_MATRIX_TIMES = "显示动画，切换时间 (毫秒)";
 Blockly.Msg.WEBDUINO_MATRIX_DUR = "持续时间 (毫秒)";
-Blockly.Msg.WEBDUINO_MATRIX_LIST = "动画代码 (列表)";
+Blockly.Msg.WEBDUINO_MATRIX_LIST = "动画代码 (数组)";
 Blockly.Msg.WEBDUINO_MATRIX_STOP = "停止";
 Blockly.Msg.WEBDUINO_MATRIX_ANIMATE = "动画";
 Blockly.Msg.WEBDUINO_MATRIX_CLOSE = "关闭";
@@ -472,8 +472,8 @@ Blockly.Msg.WEBDUINO_SSD1306_TEXT_SIZE = "OLED 设定字型大小 (1~7):";
 
 // Soil
 
-Blockly.Msg.WEBDUINO_SOIL = "土壤湿度侦测，类比脚位：";
-Blockly.Msg.WEBDUINO_SOIL_DETECTED = "光敏(可变)电阻，类比脚位";
+Blockly.Msg.WEBDUINO_SOIL = "土壤湿度侦测，模拟引脚：";
+Blockly.Msg.WEBDUINO_SOIL_DETECTED = "光敏(可变)电阻，模拟引脚";
 Blockly.Msg.WEBDUINO_SOIL_DO = "执行";
 Blockly.Msg.WEBDUINO_SOIL_VAL = "侦测的数值";
 Blockly.Msg.WEBDUINO_SOIL_STOP = "停止侦测";
@@ -795,7 +795,7 @@ Blockly.Msg.TUTORIAL_URL = "https://tutorials.webduino.io/zh-tw/docs/webbit/";
 // Web:Bit - Variable
 
 Blockly.Msg.BIT_VARIABLES = "变量";
-Blockly.Msg.BIT_VARIABLES_CHANGE = "改变";
+Blockly.Msg.BIT_VARIABLES_CHANGE = "增加";
 Blockly.Msg.BIT_VARIABLES_CHANGE_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/variables.html#change";
 Blockly.Msg.VARIABLES_SET_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/variables.html";
 Blockly.Msg.VARIABLES_GET_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/variables.html#use";
@@ -823,26 +823,26 @@ Blockly.Msg.BIT_LOGIC_IS_EVEN_ODD = "奇数";
 Blockly.Msg.BIT_LOGIC_IS_EVEN_INTEGER = "整数";
 Blockly.Msg.BIT_LOGIC_IS_EVEN_FLOAT = "数字有小数点";
 Blockly.Msg.BIT_LOGIC_IS_EVEN_STRING = "文字";
-Blockly.Msg.BIT_LOGIC_IS_EVEN_ARRAY = "序列";
+Blockly.Msg.BIT_LOGIC_IS_EVEN_ARRAY = "数组";
 
 // Web:Bit - Loop
 
 Blockly.Msg.WEBDUINO_DELAY = "等待";
 Blockly.Msg.WEBDUINO_DELAY_SECONDS = "秒";
 Blockly.Msg.WEBDUINO_DELAY_SECONDS_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop01";
-Blockly.Msg.BIT_LOOP_FOREVER = "重复无限次，后台执行";
+Blockly.Msg.BIT_LOOP_FOREVER = "循环无限次，后台执行";
 Blockly.Msg.BIT_LOOP_FOREVER_DO = "执行";
 Blockly.Msg.BIT_LOOP_FOREVER_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop04";
-Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO = "就重复无限次，后台执行";
+Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO = "就循环无限次，后台执行";
 Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO_IF = "如果";
 Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO_DO = "执行";
 Blockly.Msg.BIT_LOOP_FOREVER_WHILEDO_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop05";
 Blockly.Msg.BIT_LOOP_STOP = "停止";
 Blockly.Msg.BIT_LOOP_STOP_ALL = "所有的";
 Blockly.Msg.BIT_LOOP_STOP_THIS = "这个";
-Blockly.Msg.BIT_LOOP_STOP_REPEAT = "重复";
+Blockly.Msg.BIT_LOOP_STOP_REPEAT = "循环";
 Blockly.Msg.BIT_LOOP_STOP_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop08";
-Blockly.Msg.BIT_LOOP_EXT_REPEAT = "重复";
+Blockly.Msg.BIT_LOOP_EXT_REPEAT = "循环";
 Blockly.Msg.BIT_LOOP_EXT = "次，后台执行";
 Blockly.Msg.BIT_LOOP_EXT_DO = "执行";
 Blockly.Msg.BIT_LOOP_EXT_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop02";
@@ -854,7 +854,7 @@ Blockly.Msg.BIT_LOOP_FOR_ASYNC = "后台执行";
 Blockly.Msg.BIT_LOOP_FOR_DO = "执行";
 Blockly.Msg.BIT_LOOP_FOR_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop03";
 Blockly.Msg.BIT_LOOP_FOREACH = "取出每个";
-Blockly.Msg.BIT_LOOP_FOREACH_ARRAY = "从序列";
+Blockly.Msg.BIT_LOOP_FOREACH_ARRAY = "从数组";
 Blockly.Msg.BIT_LOOP_FOREACH_ASYNC = "后台执行";
 Blockly.Msg.BIT_LOOP_FOREACH_DO = "执行";
 Blockly.Msg.BIT_LOOP_FOREACH_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/loop.html#loop06";
@@ -904,25 +904,25 @@ Blockly.Msg.TEXT_ISEMPTY_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html";
 Blockly.Msg.TEXT_PRINT_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html";
 Blockly.Msg.BIT_TEXT_WRAP = "换行";
 Blockly.Msg.BIT_TEXT_WRAP_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html#text02";
-Blockly.Msg.BIT_TEXT_APPEND = "在字串";
+Blockly.Msg.BIT_TEXT_APPEND = "在字符串";
 Blockly.Msg.BIT_TEXT_APPEND_TO = "后方加入文字";
 Blockly.Msg.BIT_TEXT_APPEND_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html#text03";
-Blockly.Msg.BIT_TEXT_REPLACE = "把字串";
+Blockly.Msg.BIT_TEXT_REPLACE = "把字符串";
 Blockly.Msg.BIT_TEXT_REPLACE_WHICH = "的";
 Blockly.Msg.BIT_TEXT_REPLACE_FIRST = "第一个";
 Blockly.Msg.BIT_TEXT_REPLACE_ALL = "全部";
 Blockly.Msg.BIT_TEXT_REPLACE_TO = "取代为";
 Blockly.Msg.BIT_TEXT_REPLACE_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html#text04";
-Blockly.Msg.BIT_TEXT_INDEXOF = "在字串";
+Blockly.Msg.BIT_TEXT_INDEXOF = "在字符串";
 Blockly.Msg.BIT_TEXT_INDEXOF_FIND = "找出";
 Blockly.Msg.BIT_TEXT_INDEXOF_FIRST = "第一个";
 Blockly.Msg.BIT_TEXT_INDEXOF_LAST = "最后一个";
-Blockly.Msg.BIT_TEXT_INDEXOF_STRING = "出现字串";
+Blockly.Msg.BIT_TEXT_INDEXOF_STRING = "出现字符串";
 Blockly.Msg.BIT_TEXT_INDEXOF_POSITION = "的位置";
 Blockly.Msg.BIT_TEXT_INDEXOF_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html#text05";
-Blockly.Msg.BIT_TEXT_CHARAT = "得到字符串";
-Blockly.Msg.BIT_TEXT_CHARAT_NUM1 = "字元";
-Blockly.Msg.BIT_TEXT_CHARAT_NUM2 = "个字元";
+Blockly.Msg.BIT_TEXT_CHARAT = "取得字符串";
+Blockly.Msg.BIT_TEXT_CHARAT_NUM1 = "字符";
+Blockly.Msg.BIT_TEXT_CHARAT_NUM2 = "个字符";
 Blockly.Msg.BIT_TEXT_CHARAT_NUM = "第";
 Blockly.Msg.BIT_TEXT_CHARAT_ENDNUM = "倒数第";
 Blockly.Msg.BIT_TEXT_CHARAT_FIRST = "第一个";
@@ -930,11 +930,11 @@ Blockly.Msg.BIT_TEXT_CHARAT_LAST = "最后一个";
 Blockly.Msg.BIT_TEXT_CHARAT_RANDOM = "随机";
 Blockly.Msg.BIT_TEXT_CHARAT_S = "的";
 Blockly.Msg.BIT_TEXT_CHARAT_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html#text06";
-Blockly.Msg.BIT_TEXT_GETSTR = "得到字符串";
-Blockly.Msg.BIT_TEXT_GETSTR_FROM1 = "字元到";
-Blockly.Msg.BIT_TEXT_GETSTR_FROM2 = "个字元到";
-Blockly.Msg.BIT_TEXT_GETSTR_TO1 = "字元";
-Blockly.Msg.BIT_TEXT_GETSTR_TO2 = "个字元";
+Blockly.Msg.BIT_TEXT_GETSTR = "取得字符串";
+Blockly.Msg.BIT_TEXT_GETSTR_FROM1 = "字符到";
+Blockly.Msg.BIT_TEXT_GETSTR_FROM2 = "个字符到";
+Blockly.Msg.BIT_TEXT_GETSTR_TO1 = "字符";
+Blockly.Msg.BIT_TEXT_GETSTR_TO2 = "个字符";
 Blockly.Msg.BIT_TEXT_GETSTR_S = "的";
 Blockly.Msg.BIT_TEXT_GETSTR_NUM = "第";
 Blockly.Msg.BIT_TEXT_GETSTR_ENDNUM = "倒数第";
@@ -964,39 +964,39 @@ Blockly.Msg.LISTS_GET_INDEX_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/array.ht
 Blockly.Msg.LISTS_SET_INDEX_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/array.html";
 Blockly.Msg.LISTS_GET_SUBLIST_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/array.html";
 Blockly.Msg.LISTS_SPLIT_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/array.html";
-Blockly.Msg.BIT_ARRAY_SET = "从序列";
+Blockly.Msg.BIT_ARRAY_SET = "从数组";
 Blockly.Msg.BIT_ARRAY_SET_NUM = "第";
 Blockly.Msg.BIT_ARRAY_SET_ENDNUM = "倒数第";
 Blockly.Msg.BIT_ARRAY_SET_FIRST = "第一个";
 Blockly.Msg.BIT_ARRAY_SET_LAST = "最后一个";
 Blockly.Msg.BIT_ARRAY_SET_RANDOM = "随机";
-Blockly.Msg.BIT_ARRAY_SET_NUMIS1 = "项目为";
-Blockly.Msg.BIT_ARRAY_SET_NUM1 = "项目";
-Blockly.Msg.BIT_ARRAY_SET_NUMIS2 = "个项目为";
-Blockly.Msg.BIT_ARRAY_SET_NUM2 = "个项目";
+Blockly.Msg.BIT_ARRAY_SET_NUMIS1 = "变量为";
+Blockly.Msg.BIT_ARRAY_SET_NUM1 = "变量";
+Blockly.Msg.BIT_ARRAY_SET_NUMIS2 = "个变量为";
+Blockly.Msg.BIT_ARRAY_SET_NUM2 = "个变量";
 Blockly.Msg.BIT_ARRAY_SET_SET = "设定";
 Blockly.Msg.BIT_ARRAY_SET_INSERT = "插入";
 Blockly.Msg.BIT_ARRAY_SET_REMOVE = "移除";
 Blockly.Msg.BIT_ARRAY_SET_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/array.html#array04";
-Blockly.Msg.BIT_ARRAY_GET = "从序列";
-Blockly.Msg.BIT_ARRAY_GET_NUM1 = "项目";
-Blockly.Msg.BIT_ARRAY_GET_NUM2 = "个项目";
+Blockly.Msg.BIT_ARRAY_GET = "从数组";
+Blockly.Msg.BIT_ARRAY_GET_NUM1 = "变量";
+Blockly.Msg.BIT_ARRAY_GET_NUM2 = "个变量";
 Blockly.Msg.BIT_ARRAY_GET_NUM = "第";
 Blockly.Msg.BIT_ARRAY_GET_ENDNUM = "倒数第";
 Blockly.Msg.BIT_ARRAY_GET_FIRST = "第一个";
 Blockly.Msg.BIT_ARRAY_GET_LAST = "最后一个";
 Blockly.Msg.BIT_ARRAY_GET_RANDOM = "随机";
-Blockly.Msg.BIT_ARRAY_GET_GET = "得到";
-Blockly.Msg.BIT_ARRAY_GET_GETANDREMOVE = "得到并移除";
+Blockly.Msg.BIT_ARRAY_GET_GET = "取得";
+Blockly.Msg.BIT_ARRAY_GET_GETANDREMOVE = "取得并移除";
 Blockly.Msg.BIT_ARRAY_GET_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/array.html#array05";
-Blockly.Msg.BIT_ARRAY_INDEXOF = "从序列";
+Blockly.Msg.BIT_ARRAY_INDEXOF = "从数组";
 Blockly.Msg.BIT_ARRAY_INDEXOF_FIND = "找出";
 Blockly.Msg.BIT_ARRAY_INDEXOF_FIRST = "第一个";
 Blockly.Msg.BIT_ARRAY_INDEXOF_LAST = "最后一个";
-Blockly.Msg.BIT_ARRAY_INDEXOF_NUM = "项目出现";
+Blockly.Msg.BIT_ARRAY_INDEXOF_NUM = "变量出现";
 Blockly.Msg.BIT_ARRAY_INDEXOF_POSITION = "的位置";
 Blockly.Msg.BIT_ARRAY_INDEXOF_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/array.html#array06";
-Blockly.Msg.BIT_ARRAY_SORT = "从序列";
+Blockly.Msg.BIT_ARRAY_SORT = "从数组";
 Blockly.Msg.BIT_ARRAY_SORT_DEPEND = "按照";
 Blockly.Msg.BIT_ARRAY_SORT_NUMERIC = "数字";
 Blockly.Msg.BIT_ARRAY_SORT_TEXT = "字母";
@@ -1008,10 +1008,10 @@ Blockly.Msg.BIT_ARRAY_SORT_TYPE = "排列";
 Blockly.Msg.BIT_ARRAY_SORT_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/array.html#array07";
 Blockly.Msg.BIT_ARRAY_SPLIT = "在";
 Blockly.Msg.BIT_ARRAY_SPLIT_USE = "用分隔符";
-Blockly.Msg.BIT_ARRAY_SPLIT_SPLIT = "把文字拆成序列";
-Blockly.Msg.BIT_ARRAY_SPLIT_JOIN = "把序列合并为文字";
+Blockly.Msg.BIT_ARRAY_SPLIT_SPLIT = "把文字拆成数组";
+Blockly.Msg.BIT_ARRAY_SPLIT_JOIN = "把数组合并为文字";
 Blockly.Msg.BIT_ARRAY_SPLIT_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/array.html#array08";
-Blockly.Msg.BIT_ARRAY_LENGTH = "序列";
+Blockly.Msg.BIT_ARRAY_LENGTH = "数组";
 Blockly.Msg.BIT_ARRAY_LENGTH_LENGTH = "的长度";
 Blockly.Msg.BIT_ARRAY_LENGTH_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/array.html#array09";
 
@@ -1246,12 +1246,12 @@ Blockly.Msg.BIT_BOARD_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/board.html";
 
 // Web:Bit - I/O Pin
 
-Blockly.Msg.WEBDUINO_PIN_READ = "读取脚位";
-Blockly.Msg.WEBDUINO_PIN_ANALOG_WRITE = "类比输出 ( PWM ) 至脚位";
-Blockly.Msg.WEBDUINO_PIN_DIGITAL_WRITE = "数位输出至脚位";
+Blockly.Msg.WEBDUINO_PIN_READ = "读取引脚";
+Blockly.Msg.WEBDUINO_PIN_ANALOG_WRITE = "模拟输出 ( PWM ) 至引脚";
+Blockly.Msg.WEBDUINO_PIN_DIGITAL_WRITE = "数字输出至引脚";
 Blockly.Msg.WEBDUINO_PIN_VALUE = "数值";
-Blockly.Msg.WEBDUINO_PIN_DIN = "数位输入";;
-Blockly.Msg.WEBDUINO_PIN_AIN = "类比输入";
+Blockly.Msg.WEBDUINO_PIN_DIN = "数字输入";;
+Blockly.Msg.WEBDUINO_PIN_AIN = "模拟输入";
 Blockly.Msg.WEBDUINO_PIN_READ_DIGITAL_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/io-pin.html#pin01";
 Blockly.Msg.WEBDUINO_PIN_READ_ANALOG_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/io-pin.html#pin02";
 Blockly.Msg.WEBDUINO_PIN_WRITE_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/io-pin.html#pin03";
@@ -1313,7 +1313,7 @@ Blockly.Msg.BIT_AB_BUTTON_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/ab-button.
 
 // Web:Bit - Detected
 
-Blockly.Msg.BIT_DETECTED = "检测光线＆温度 ( 重复无限次 )";
+Blockly.Msg.BIT_DETECTED = "光线＆温度 ( 循环无限次 )";
 Blockly.Msg.BIT_DETECTED_DO = "执行";
 Blockly.Msg.BIT_DETECTED_PHOTOCELL = "亮度";
 Blockly.Msg.BIT_DETECTED_PHOTOCELL_LEFT = "左上";
