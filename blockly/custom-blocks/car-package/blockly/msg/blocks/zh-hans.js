@@ -3,7 +3,7 @@ Blockly.Msg.WEBDUINO_CARTRACKER_STATUS_1 = "设置信号为 ○○ 时，自走�
 Blockly.Msg.WEBDUINO_CARTRACKER_STATUS_2 = "设置信号为 ○● 时，自走车";
 Blockly.Msg.WEBDUINO_CARTRACKER_STATUS_3 = "设置信号为 ●○ 时，自走车";
 Blockly.Msg.WEBDUINO_CARTRACKER_STATUS_4 = "设置信号为 ●● 时，自走车";
-Blockly.Msg.WEBDUINO_CARTRACKER_DO = "运行";
+Blockly.Msg.WEBDUINO_CARTRACKER_DO = "执行";
 Blockly.Msg.WEBDUINO_CARTRACKER_ON = "启动循迹";
 Blockly.Msg.WEBDUINO_CARTRACKER_OFF = "停止循迹";
 Blockly.Msg.WEBDUINO_CARTRACKER_STOP = "停止";
@@ -42,13 +42,13 @@ Blockly.Msg.WEBDUINO_CARBUTTON_EVENT_WHEN = "当小车按钮被";
 
 Blockly.Msg.WEBDUINO_ULTRASONIC_DISTANCE = "超音波传感器所截取的距离 ( 公分 )";
 
-Blockly.Msg.WEBDUINO_IRRECV_ON = "当红外线接收到信号";
-Blockly.Msg.WEBDUINO_IRRECV_DO = "运行";
+Blockly.Msg.WEBDUINO_IRRECV_ON = "红外线开始接收信号";
+Blockly.Msg.WEBDUINO_IRRECV_DO = "执行";
 Blockly.Msg.WEBDUINO_IRRECV_CODE = "红外线接收的代码";
 Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE = "红外线发射代码 ( 十六进位 )";
 
-Blockly.Msg.WEBDUINO_WS2812_LED_SET = "设置魔幻 LED 第";
+Blockly.Msg.WEBDUINO_WS2812_LED_SET = "设定 LED 灯环";
 Blockly.Msg.WEBDUINO_WS2812_LED_COLOR = "颗颜色为";
 Blockly.Msg.WEBDUINO_WS2812_DISPLAY = "显示";
-Blockly.Msg.WEBDUINO_WS2812_BRIGHTBESS = "设置魔幻 LED 亮度 (0~100)";
-Blockly.Msg.WEBDUINO_WS2812_CLOSE = "关闭魔幻 LED ";
+Blockly.Msg.WEBDUINO_WS2812_BRIGHTBESS = "设定灯环亮度 (0~100)";
+Blockly.Msg.WEBDUINO_WS2812_CLOSE = "关闭灯环";

@@ -1,0 +1,1 @@
+MSG.catEV3BT = "樂高 EV3";

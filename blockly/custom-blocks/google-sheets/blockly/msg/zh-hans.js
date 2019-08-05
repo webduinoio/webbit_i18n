@@ -1,0 +1,1 @@
+MSG.catGoogleSheetsPlus = "Google 試算表";

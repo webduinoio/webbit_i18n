@@ -1,0 +1,1 @@
+MSG.catWeather = "氣象資訊";
