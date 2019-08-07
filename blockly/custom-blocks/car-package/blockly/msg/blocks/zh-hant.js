@@ -52,3 +52,13 @@ Blockly.Msg.WEBDUINO_WS2812_LED_COLOR = "顆顏色為";
 Blockly.Msg.WEBDUINO_WS2812_DISPLAY = "顯示";
 Blockly.Msg.WEBDUINO_WS2812_BRIGHTBESS = "設定魔幻 LED 亮度 (0~100)";
 Blockly.Msg.WEBDUINO_WS2812_CLOSE = "關閉魔幻 LED ";
+
+Blockly.Msg.WEBDUINO_TCS34725_COLOR = "顏色傳感器測得";
+Blockly.Msg.WEBDUINO_TCS34725_BLACK = "黑色";
+Blockly.Msg.WEBDUINO_TCS34725_BLUE = "藍色";
+Blockly.Msg.WEBDUINO_TCS34725_GREEN = "綠色";
+Blockly.Msg.WEBDUINO_TCS34725_CYAN = "青色";
+Blockly.Msg.WEBDUINO_TCS34725_RED = "紅色";
+Blockly.Msg.WEBDUINO_TCS34725_PURPLE = "紫色";
+Blockly.Msg.WEBDUINO_TCS34725_YELLOW = "黃色";
+Blockly.Msg.WEBDUINO_TCS34725_WHITE = "白色";

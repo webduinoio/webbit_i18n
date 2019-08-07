@@ -52,3 +52,13 @@ Blockly.Msg.WEBDUINO_WS2812_LED_COLOR = "颗颜色为";
 Blockly.Msg.WEBDUINO_WS2812_DISPLAY = "显示";
 Blockly.Msg.WEBDUINO_WS2812_BRIGHTBESS = "设定灯环亮度 (0~100)";
 Blockly.Msg.WEBDUINO_WS2812_CLOSE = "关闭灯环";
+
+Blockly.Msg.WEBDUINO_TCS34725_COLOR = "颜色传感器测得";
+Blockly.Msg.WEBDUINO_TCS34725_BLACK = "黑色";
+Blockly.Msg.WEBDUINO_TCS34725_BLUE = "蓝色";
+Blockly.Msg.WEBDUINO_TCS34725_GREEN = "绿色";
+Blockly.Msg.WEBDUINO_TCS34725_CYAN = "青色";
+Blockly.Msg.WEBDUINO_TCS34725_RED = "红色";
+Blockly.Msg.WEBDUINO_TCS34725_PURPLE = "紫色";
+Blockly.Msg.WEBDUINO_TCS34725_YELLOW = "黄色";
+Blockly.Msg.WEBDUINO_TCS34725_WHITE = "白色";
