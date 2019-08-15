@@ -43,6 +43,7 @@ var MSG = {
   catExec: "Delay",
   catRepeat: "Repeat",
   catBoardGroup: "Board Control",
+  catWebBit: "Web:Bit",
   catBoard: "Board",
   catLed: "LED",
   catRelay: "Relay",
