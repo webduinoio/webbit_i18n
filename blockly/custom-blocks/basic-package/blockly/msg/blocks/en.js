@@ -25,3 +25,9 @@ Blockly.Msg.WEBDUINO_PHOTOCELL_PIN = "Photocell Pin";
 Blockly.Msg.WEBDUINO_PHOTOCELL_DO = "Do";
 Blockly.Msg.WEBDUINO_PHOTOCELL_VAL = "Detected value";
 Blockly.Msg.WEBDUINO_PHOTOCELL_STOP = "Stop Detecting";
+
+
+Blockly.Msg.WEBBIT_BASIC_IR_HELPURL = "https://tutorials.webduino.io/zh-tw/docs/webbit/extension-basic-package/ir.html";
+Blockly.Msg.WEBBIT_BASIC_ULTRASONIC_HELPURL = "https://tutorials.webduino.io/zh-tw/docs/webbit/extension-basic-package/ultrasonic.html";
+Blockly.Msg.WEBBIT_BASIC_SERVO_HELPURL = "https://tutorials.webduino.io/zh-tw/docs/webbit/extension-basic-package/servo.html";
+

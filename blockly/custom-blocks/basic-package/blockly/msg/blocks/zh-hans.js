@@ -25,3 +25,9 @@ Blockly.Msg.WEBDUINO_PHOTOCELL_PIN = "光敏引脚";
 Blockly.Msg.WEBDUINO_PHOTOCELL_DO = "执行";
 Blockly.Msg.WEBDUINO_PHOTOCELL_VAL = "检测的数值";
 Blockly.Msg.WEBDUINO_PHOTOCELL_STOP = "停止检测";
+
+
+Blockly.Msg.WEBBIT_BASIC_IR_HELPURL = "https://tutorials.webduino.io/zh-tw/docs/webbit/extension-basic-package/ir.html";
+Blockly.Msg.WEBBIT_BASIC_ULTRASONIC_HELPURL = "https://tutorials.webduino.io/zh-tw/docs/webbit/extension-basic-package/ultrasonic.html";
+Blockly.Msg.WEBBIT_BASIC_SERVO_HELPURL = "https://tutorials.webduino.io/zh-tw/docs/webbit/extension-basic-package/servo.html";
+
