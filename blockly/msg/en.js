@@ -343,17 +343,17 @@ var MSG = {
         json: "samples/en/bit-s-02.json"
       },
       s03: {
-        text: "點擊小怪獸切換圖案",
+        text: "按鈕開關切換剪刀、石頭、布",
         img: "samples/en/bit-s-03.jpg",
         json: "samples/en/bit-s-03.json"
       },
       s04: {
-        text: "按鈕開關切換剪刀、石頭、布",
+        text: "按鈕開關控制小怪獸尺寸",
         img: "samples/en/bit-s-04.jpg",
         json: "samples/en/bit-s-04.json"
       },
       s05: {
-        text: "按鈕開關控制小怪獸尺寸",
+        text: "點擊小怪獸切換圖案",
         img: "samples/en/bit-s-05.jpg",
         json: "samples/en/bit-s-05.json"
       },

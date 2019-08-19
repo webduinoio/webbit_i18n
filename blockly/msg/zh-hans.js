@@ -346,17 +346,17 @@ var MSG = {
         json: "samples/zh-hans/bit-s-02.json"
       },
       s03: {
-        text: "点击小怪兽切换图案",
+        text: "按钮开关切换见到见到、石头、布",
         img: "samples/zh-hans/bit-s-03.jpg",
         json: "samples/zh-hans/bit-s-03.json"
       },
       s04: {
-        text: "按钮开关切换见到见到、石头、布",
+        text: "按钮开关控制小怪兽尺寸",
         img: "samples/zh-hans/bit-s-04.jpg",
         json: "samples/zh-hans/bit-s-04.json"
       },
       s05: {
-        text: "按钮开关控制小怪兽尺寸",
+        text: "点击小怪兽切换图案",
         img: "samples/zh-hans/bit-s-05.jpg",
         json: "samples/zh-hans/bit-s-05.json"
       },
