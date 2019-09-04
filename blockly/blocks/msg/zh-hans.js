@@ -790,7 +790,7 @@ Blockly.Msg.WEBDUINO_GOOGLESHEETS_READDATA = "读取到的资料";
 
 // Web:Bit - Tutorial url
 
-Blockly.Msg.TUTORIAL_URL = "https://tutorials.webduino.io/zh-tw/docs/webbit/";
+Blockly.Msg.TUTORIAL_URL = "https://webbit.webduino.io/tutorials/doc/zh-cn/education/";
 
 // Web:Bit - Variable
 

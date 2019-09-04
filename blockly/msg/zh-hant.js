@@ -178,7 +178,7 @@ var MSG = {
   webbitMenuMoreDownload: "下載安裝",
   webbitMenuRun: "執行",
   webbitMenuStop: "停止",
-  webbitMenuTutorialsURL: "https://tutorials.webduino.io/zh-tw/docs/webbit/index.html",
+  webbitMenuTutorialsURL: "https://webbit.webduino.io/tutorials/doc/zh-tw/education/index.html",
   webbitMenuDownloadURL: "https://ota.webduino.io/WebBitInstaller/WebBitSetup.exe",
   webbitExtensionTitleH2: "選擇擴充功能",
   webbitExtensionTitleH3: {

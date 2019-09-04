@@ -178,7 +178,7 @@ var MSG = {
   webbitMenuMoreDownload: "Download",
   webbitMenuRun: "Run",
   webbitMenuStop: "Stop",
-  webbitMenuTutorialsURL: "https://tutorials.webduino.io/zh-tw/docs/webbit/index.html",
+  webbitMenuTutorialsURL: "https://webbit.webduino.io/tutorials/doc/zh-tw/education/index.html",
   webbitMenuDownloadURL: "https://ota.webduino.io/WebBitInstaller/WebBitSetup.exe",
   webbitExtensionTitleH2: "Choose Extension",
   webbitExtensionTitleH3: {
