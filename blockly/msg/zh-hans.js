@@ -217,7 +217,7 @@ var MSG = {
         json: "samples/zh-hans/s0-01.json"
       },
       s02: {
-        text: "电机小怪兽就会放大",
+        text: "点击小怪兽就会放大",
         img: "samples/zh-hans/s0-02.jpg",
         json: "samples/zh-hans/s0-02.json"
       },
