@@ -56,10 +56,11 @@ Blockly.Msg.WEBDUINO_WS2812_CLOSE = "Turn Off Matrix";
 
 Blockly.Msg.WEBDUINO_TCS34725_COLOR = "Color Sensor Detected";
 Blockly.Msg.WEBDUINO_TCS34725_BLACK = "Black";
-Blockly.Msg.WEBDUINO_TCS34725_BLUE = "Blue";
+Blockly.Msg.WEBDUINO_TCS34725_BLUE = "Dark Blue";
 Blockly.Msg.WEBDUINO_TCS34725_GREEN = "Green";
-Blockly.Msg.WEBDUINO_TCS34725_CYAN = "Cyan";
+Blockly.Msg.WEBDUINO_TCS34725_CYAN = "Blue";
 Blockly.Msg.WEBDUINO_TCS34725_RED = "Red";
 Blockly.Msg.WEBDUINO_TCS34725_PURPLE = "Purple";
 Blockly.Msg.WEBDUINO_TCS34725_YELLOW = "Yellow";
 Blockly.Msg.WEBDUINO_TCS34725_WHITE = "White";
+Blockly.Msg.WEBDUINO_TCS34725_ORANGE = "Orange";
