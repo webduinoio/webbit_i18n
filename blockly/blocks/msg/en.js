@@ -1151,6 +1151,8 @@ Blockly.Msg.MONSTER_STAGE_SIZE = "怪獸舞台的";
 Blockly.Msg.MONSTER_STAGE_SIZE_WIDTH = "寬度";
 Blockly.Msg.MONSTER_STAGE_SIZE_HEIGHT = "高度";
 Blockly.Msg.MONSTER_STAGE_SIZE_HELPURL = Blockly.Msg.TUTORIAL_URL + "monster/event.html#event08";
+Blockly.Msg.MONSTER_MOUSE = "滑鼠的";
+Blockly.Msg.MONSTER_MOUSE_COORDINATE = "座標";
 
 // Web:Bit - Detect
 
