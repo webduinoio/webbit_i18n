@@ -176,6 +176,7 @@ var MSG = {
   webbitMenuMoreWifiOnly: "Wi-Fi Only",
   webbitMenuMoreCommingSoon: "Comming soon",
   webbitMenuMoreDownload: "Download",
+  webbitMenuMorePreview: "Preview",
   webbitMenuRun: "Run",
   webbitMenuStop: "Stop",
   webbitMenuTutorialsURL: "https://webbit.webduino.io/tutorials/doc/zh-tw/education/index.html",

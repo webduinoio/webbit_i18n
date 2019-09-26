@@ -176,6 +176,7 @@ var MSG = {
   webbitMenuMoreWifiOnly: "Wi-Fi 限定",
   webbitMenuMoreCommingSoon: "即將推出",
   webbitMenuMoreDownload: "下載安裝",
+  webbitMenuMorePreview: "行動預覽",
   webbitMenuRun: "執行",
   webbitMenuStop: "停止",
   webbitMenuTutorialsURL: "https://webbit.webduino.io/tutorials/doc/zh-tw/education/index.html",
