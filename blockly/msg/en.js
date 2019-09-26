@@ -190,6 +190,9 @@ var MSG = {
       weather: "Weather",
       radio: "Internet Broadcast",
       line: "LINE",
+      microphone: "Microphone",
+      youtube: "Youtube",
+      trackingjs: "Tracking",
       basicPackage: "Basic Package",
       carPackage: "Toy Car Package",
       fullPackage: "Extension Package"

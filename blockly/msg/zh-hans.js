@@ -193,6 +193,9 @@ var MSG = {
       weather: "即时气象",
       radio: "网络广播",
       line: "LINE",
+      microphone: "錄音＆音量",
+      youtube: "Youtube",
+      trackingjs: "人臉＆顏色追蹤",
       basicPackage: "基础套件包",
       carPackage: "小车套件包",
       fullPackage: "擴充套件包"
