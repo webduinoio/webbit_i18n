@@ -178,6 +178,8 @@ var MSG = {
   webbitMenuMoreCommingSoon: "Comming soon",
   webbitMenuMoreDownload: "Download",
   webbitMenuMorePreview: "Preview",
+  webbitQrcodePreviewTitle: "Preview",
+  webbitQrcodePreviewURL: "Preview Link",
   webbitMenuRun: "Run",
   webbitMenuStop: "Stop",
   webbitMenuTutorialsURL: "https://webbit.webduino.io/tutorials/doc/zh-tw/education/index.html",

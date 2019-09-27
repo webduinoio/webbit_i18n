@@ -181,6 +181,8 @@ var MSG = {
   webbitMenuMoreCommingSoon: "即将推出",
   webbitMenuMoreDownload: "下载安装",
   webbitMenuMorePreview: "行動預覽",
+  webbitQrcodePreviewTitle: "行動預覽",
+  webbitQrcodePreviewURL: "開啟連結預覽",
   webbitMenuRun: "执行",
   webbitMenuStop: "停止",
   webbitMenuTutorialsURL: "https://webbit.webduino.io/tutorials/doc/zh-cn/education/index.html",
