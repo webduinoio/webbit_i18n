@@ -175,6 +175,7 @@ var MSG = {
   cloudDeployStatusOK: "(≧▽≦) 云端部署完成！ ",
   cloudDeployStatusFail: "(TдT) 云端部署发生问题！ 请检查下列三点后重新部署。 n1. 开发板 Device ID 是否正确。 n2. 开发板是否正常联机至 Wi-Fi。 n3. 计算机的网络是否正常。 ",
   webbitMenuMoreExtension: "扩展功能",
+  webbitMenuMoreExtensionBtn: "扩展",
   webbitMenuStore: "购买套件",
   webbitMenuMoreWifiOnly: "Wi-Fi 限制",
   webbitMenuMoreCommingSoon: "即将推出",

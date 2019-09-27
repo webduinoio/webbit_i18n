@@ -172,6 +172,7 @@ var MSG = {
   cloudDeployStatusOK: "Cloud deploy complete!",
   cloudDeployStatusFail: "Something's wrong!\nPlease check the following three points before redeploying.\n1. Is the Device ID of development board correct?\n2. Is the development board connected to wi-fi normally?\n3. Is the computer network normal?",
   webbitMenuMoreExtension: "Extension",
+  webbitMenuMoreExtensionBtn: "Extension",
   webbitMenuStore: "Buy",
   webbitMenuMoreWifiOnly: "Wi-Fi Only",
   webbitMenuMoreCommingSoon: "Comming soon",
