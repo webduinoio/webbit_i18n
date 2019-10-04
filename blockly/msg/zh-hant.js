@@ -197,6 +197,7 @@ var MSG = {
       microphone: "錄音＆音量",
       youtube: "Youtube",
       trackingjs: "人臉＆顏色追蹤",
+      videoSensing: "視訊偵測",
       basicPackage: "基礎套件包",
       carPackage: "MoonCar 自走車",
       fullPackage: "擴充套件包"

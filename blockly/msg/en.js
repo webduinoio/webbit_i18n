@@ -197,6 +197,7 @@ var MSG = {
       microphone: "Microphone",
       youtube: "Youtube",
       trackingjs: "Tracking face & color",
+      videoSensing: "Video Sensing",
       basicPackage: "Basic Package",
       carPackage: "Toy Car Package",
       fullPackage: "Extension Package"

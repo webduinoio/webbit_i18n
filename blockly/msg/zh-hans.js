@@ -200,6 +200,7 @@ var MSG = {
       microphone: "錄音＆音量",
       youtube: "Youtube",
       trackingjs: "人臉＆顏色追蹤",
+      videoSensing: "視訊偵測",
       basicPackage: "基础套件包",
       carPackage: "小车套件包",
       fullPackage: "擴充套件包"
