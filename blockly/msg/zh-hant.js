@@ -202,6 +202,9 @@ var MSG = {
       carPackage: "MoonCar 自走車",
       fullPackage: "擴充套件包"
     },
+    interaction:{
+      title: "影音互動"
+    },
     package: {
       title: "物聯網開發套件",
       basic: "基礎套件包"

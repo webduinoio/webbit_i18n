@@ -202,6 +202,9 @@ var MSG = {
       carPackage: "Toy Car Package",
       fullPackage: "Extension Package"
     },
+    interaction:{
+      title: "Interaction"
+    },
     package: {
       title: "IoT Package",
       basic: "Basic Packge"

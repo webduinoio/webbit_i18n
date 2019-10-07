@@ -205,6 +205,9 @@ var MSG = {
       carPackage: "小车套件包",
       fullPackage: "擴充套件包"
     },
+    interaction:{
+      title: "影音互動"
+    },
     package: {
       title: "物联网开发套件",
       basic: "基础套件包"
