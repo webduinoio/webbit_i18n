@@ -46,8 +46,10 @@
     "CHANGE_TO_CHINA_MQTT": "MQTT settings on Web:Bit board do not match current language, will not be able to use WiFi connection.\\nPlease change to [China] server to fix it.",
     "CHANGE_TO_GLOBAL_MQTT": "MQTT settings on Web:Bit board do not match current language, will not be able to use WiFi connection.\\nPlease change to [Global] server to fix it.",
     "SETUP_MQTT": "Setup Web:Bit MQTT Server",
+    "ENTER_CUSTOM_MQTT": "Enter Private Cloud MQTT server:",
     "SET_TO": "Set MQTT to {0} Server?",
     "CHINA": "China",
     "GLOBAL": "Global",
+    "CUSTOM_MQTT": "Custom (Private Cloud)",
     "PLZ_UPDATE_FW": "Please update firmware for this feature!"
 }

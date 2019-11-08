@@ -46,8 +46,10 @@
     "CHANGE_TO_CHINA_MQTT": "Web:Bit 的 MQTT 设置和目前所处地区不符，将无法使用 WiFi 连接。\\n请将 MQTT 设置为[中国]服务器以修复此问题。",
     "CHANGE_TO_GLOBAL_MQTT": "Web:Bit 的 MQTT 设置和目前所处地区不符，将无法使用 WiFi 连接\\n请将 MQTT 设置为[全球]服务器以修复此问题。",
     "SETUP_MQTT": "设置 Web:Bit MQTT 服务器",
+    "ENTER_CUSTOM_MQTT": "输入私有云 MQTT 服务器：",
     "SET_TO": "设置 MQTT 为{0}服务器？",
     "CHINA": "中国",
     "GLOBAL": "全球",
+    "CUSTOM_MQTT": "自定义(私有云)",
     "PLZ_UPDATE_FW": "固件未支持此功能，请先更新固件！"
 }
