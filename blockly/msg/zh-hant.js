@@ -200,7 +200,8 @@ var MSG = {
       videoSensing: "視訊偵測",
       basicPackage: "基礎套件包",
       carPackage: "MoonCar 自走車",
-      fullPackage: "擴充套件包"
+      fullPackage: "擴充套件包",
+      sensorBoard: "Sensor Board"
     },
     interaction:{
       title: "影音互動"

@@ -200,7 +200,8 @@ var MSG = {
       videoSensing: "Video Sensing",
       basicPackage: "Basic Package",
       carPackage: "Toy Car Package",
-      fullPackage: "Extension Package"
+      fullPackage: "Extension Package",
+      sensorBoard: "Sensor Board"
     },
     interaction:{
       title: "Interaction"
