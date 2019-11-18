@@ -201,7 +201,8 @@ var MSG = {
       basicPackage: "Basic Package",
       carPackage: "Toy Car Package",
       fullPackage: "Extension Package",
-      sensorBoard: "Sensor Board"
+      sensorBoard: "Sensor Board",
+      kebbiPackage: "Kebbi Package"
     },
     interaction:{
       title: "Interaction"

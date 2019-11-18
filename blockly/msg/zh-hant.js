@@ -201,7 +201,8 @@ var MSG = {
       basicPackage: "基礎套件包",
       carPackage: "MoonCar 自走車",
       fullPackage: "擴充套件包",
-      sensorBoard: "Sensor Board"
+      sensorBoard: "Sensor Board",
+      kebbiPackage: "凱比機器人"
     },
     interaction:{
       title: "影音互動"
