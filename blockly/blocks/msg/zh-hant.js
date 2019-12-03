@@ -49,7 +49,7 @@ Blockly.Msg.UTMURL = '?utm_source=cloud-blockly&utm_medium=contextMenu&utm_campa
 Blockly.Msg.HELP = "教學";
 Blockly.Msg.TOOL = "小工具";
 
-Blockly.Msg.PROCEDURES_DEFNORETURN_HELPURL = "https://tutorials.webduino.io/zh-tw/docs/blockly/standard/functions.html" + Blockly.Msg.UTMURL;
+Blockly.Msg.PROCEDURES_DEFNORETURN_HELPURL = "https://webbit.webduino.io/tutorials/doc/zh-tw/education/basic/function.html" + Blockly.Msg.UTMURL;
 Blockly.Msg.PROCEDURES_DEFRETURN_HELPURL = Blockly.Msg.PROCEDURES_DEFNORETURN_HELPURL;
 Blockly.Msg.PROCEDURES_CALLNORETURN_HELPURL = Blockly.Msg.PROCEDURES_DEFNORETURN_HELPURL;
 Blockly.Msg.PROCEDURES_CALLRETURN_HELPURL = Blockly.Msg.PROCEDURES_DEFNORETURN_HELPURL;
