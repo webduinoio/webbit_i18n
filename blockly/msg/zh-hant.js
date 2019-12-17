@@ -168,9 +168,12 @@ var MSG = {
   webbitMenuClean: "清空",
   webbitMenuMore: "更多",
   webbitMenuMoreCloud: "雲端部署",
+  webbitMenuMoreRobot: "部署至機器人",
   cloudDeployStatusRunning: "部署中...",
   cloudDeployStatusOK: "(≧▽≦) 雲端部署完成！",
   cloudDeployStatusFail: "(TдT) 雲端部署發生問題！請檢查下列三點後重新部署。\n1. 開發板 Device ID 是否正確。\n2. 開發板是否正常連線至 Wi-Fi。\n3. 電腦的網路是否正常。",
+  cloudDeployRobotStatusOK: "(≧▽≦) 部署完成！",
+  cloudDeployRobotStatusFail: "(TдT) 部署發生問題！請檢查下列三點後重新部署。\n1. 機器人 ID 是否正確。\n2. 機器人的網路是否正常。\n3. 電腦的網路是否正常。",
   webbitMenuMoreExtension: "擴充功能",
   webbitMenuMoreExtensionBtn: "擴充",
   webbitMenuStore: "購買套件",
@@ -201,7 +204,8 @@ var MSG = {
       basicPackage: "基礎套件包",
       carPackage: "MoonCar 自走車",
       fullPackage: "擴充套件包",
-      sensorBoard: "Sensor Board"
+      sensorBoard: "Sensor Board",
+      kebbiPackage: "凱比機器人"
     },
     interaction:{
       title: "影音互動"
