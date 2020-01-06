@@ -51,5 +51,6 @@
     "CHINA": "中國",
     "GLOBAL": "全球",
     "CUSTOM_MQTT": "自訂(私有雲)",
-    "PLZ_UPDATE_FW": "韌體未支援此功能，請先更新韌體！"
+    "PLZ_UPDATE_FW": "韌體未支援此功能，請先更新韌體！",
+    "INPUT_FW_VERSION": "請輸入韌體版號："
 }

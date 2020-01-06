@@ -171,9 +171,12 @@ var MSG = {
   webbitMenuClean: "清空",
   webbitMenuMore: "更多",
   webbitMenuMoreCloud: "云端部署",
+  webbitMenuMoreRobot: "部署至机器人",
   cloudDeployStatusRunning: "部署中...",
   cloudDeployStatusOK: "(≧▽≦) 云端部署完成！ ",
   cloudDeployStatusFail: "(TдT) 云端部署发生问题！ 请检查下列三点后重新部署。 n1. 开发板 Device ID 是否正确。 n2. 开发板是否正常联机至 Wi-Fi。 n3. 计算机的网络是否正常。 ",
+  cloudDeployRobotStatusOK: "(≧▽≦) 部署完成！",
+  cloudDeployRobotStatusFail: "(TдT) 部署发生问题！请检查下列三点后重新部署。\n1. 机器人 ID 是否正确。\n2. 机器人的网路是否正常。\n3. 电脑的网路是否正常。",
   webbitMenuMoreExtension: "扩展功能",
   webbitMenuMoreExtensionBtn: "扩展",
   webbitMenuStore: "购买套件",
@@ -204,7 +207,8 @@ var MSG = {
       basicPackage: "基础套件包",
       carPackage: "小车套件包",
       fullPackage: "擴充套件包",
-      sensorBoard: "Sensor Board"
+      sensorBoard: "Sensor Board",
+      kebbiPackage: "凯比机器人"
     },
     interaction:{
       title: "影音互動"

@@ -51,5 +51,6 @@
     "CHINA": "China",
     "GLOBAL": "Global",
     "CUSTOM_MQTT": "Custom (Private Cloud)",
-    "PLZ_UPDATE_FW": "Please update firmware for this feature!"
+    "PLZ_UPDATE_FW": "Please update firmware for this feature!",
+    "INPUT_FW_VERSION": "Please enter firmware version number:"
 }

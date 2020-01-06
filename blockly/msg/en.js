@@ -168,9 +168,12 @@ var MSG = {
   webbitMenuClean: "Clean",
   webbitMenuMore: "More",
   webbitMenuMoreCloud: "Deploy",
+  webbitMenuMoreRobot: "Deploy to robot",
   cloudDeployStatusRunning: "Deploying...",
   cloudDeployStatusOK: "Cloud deploy complete!",
   cloudDeployStatusFail: "Something's wrong!\nPlease check the following three points before redeploying.\n1. Is the Device ID of development board correct?\n2. Is the development board connected to wi-fi normally?\n3. Is the computer network normal?",
+  cloudDeployRobotStatusOK: "Cloud deploy complete!",
+  cloudDeployRobotStatusFail: "Something's wrong!\nPlease check the following three points before redeploying.\n1. Is the Robot ID correct?\n2. Is the internet of Robot working?\n3. Is the internet of computer working?",
   webbitMenuMoreExtension: "Extension",
   webbitMenuMoreExtensionBtn: "Extension",
   webbitMenuStore: "Buy",
@@ -201,7 +204,8 @@ var MSG = {
       basicPackage: "Basic Package",
       carPackage: "Toy Car Package",
       fullPackage: "Extension Package",
-      sensorBoard: "Sensor Board"
+      sensorBoard: "Sensor Board",
+      kebbiPackage: "Kebbi Robot"
     },
     interaction:{
       title: "Interaction"

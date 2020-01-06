@@ -51,5 +51,6 @@
     "CHINA": "中国",
     "GLOBAL": "全球",
     "CUSTOM_MQTT": "自定义(私有云)",
-    "PLZ_UPDATE_FW": "固件未支持此功能，请先更新固件！"
+    "PLZ_UPDATE_FW": "固件未支持此功能，请先更新固件！",
+    "INPUT_FW_VERSION": "请输入固件版号："
 }
