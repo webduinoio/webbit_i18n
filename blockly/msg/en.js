@@ -148,7 +148,7 @@ var MSG = {
   catBitBuzzer: "Buzzer",
   catBitMpu9250: "MPU9250",
   catPin:"I/O Pins",
-  catBitDemoMonster: "Monater",
+  catBitDemoMonster: "Monster",
   webbitTitle: "Web:Bit Education",
   webbitMenuBlock: "Block",
   webbitMenuJS: "Javascript",
