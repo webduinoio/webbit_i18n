@@ -148,7 +148,7 @@ var MSG = {
   catBitBuzzer: "Buzzer",
   catBitMpu9250: "MPU9250",
   catPin:"I/O Pins",
-  catBitDemoMonster: "Monater",
+  catBitDemoMonster: "Monster",
   webbitTitle: "Web:Bit Education",
   webbitMenuBlock: "Block",
   webbitMenuJS: "Javascript",
@@ -206,236 +206,236 @@ var MSG = {
   },
   webbitSampleTitleH2: "Choose sample",
   webbitSampleTitleH3: {
-    s0: "基礎操作",
-    s1: "進階控制",
-    bits: "Webduino Bit 物聯網入門",
-    bita: "Webduino Bit 物聯網進階"
+    s0: "Basic control",
+    s1: "Advanced control",
+    bits: "Getting started with Web:Bit",
+    bita: "Web:Bit Advanced"
   },
   webbitSample: {
     s0: {
       s01: {
-        text: "小怪獸講話",
+        text: "Talking",
         img: "samples/en/s0-01.jpg",
         json: "samples/en/s0-01.json"
       },
       s02: {
-        text: "點擊小怪獸就會放大",
+        text: "Click and zoom in",
         img: "samples/en/s0-02.jpg",
         json: "samples/en/s0-02.json"
       },
       s03: {
-        text: "鍵盤控制小怪獸",
+        text: "Control with the keyboard",
         img: "samples/en/s0-03.jpg",
         json: "samples/en/s0-03.json"
       },
       s04: {
-        text: "小怪獸自動旋轉",
+        text: "Rotate automatically",
         img: "samples/en/s0-04.jpg",
         json: "samples/en/s0-04.json"
       },
       s05: {
-        text: "小怪獸移動時碰到邊緣反彈",
+        text: "Bounce on the edge when moving",
         img: "samples/en/s0-05.jpg",
         json: "samples/en/s0-05.json"
       },
       s06: {
-        text: "小怪獸報時 ( 小時鐘 )",
+        text: "Clock",
         img: "samples/en/s0-06.jpg",
         json: "samples/en/s0-06.json"
       },
       s07: {
-        text: "小怪獸比賽數字大小",
+        text: "Bigger or smaller than",
         img: "samples/en/s0-07.jpg",
         json: "samples/en/s0-07.json"
       },
       s08: {
-        text: "小怪獸講出隨機話語",
+        text: "Speak random words",
         img: "samples/en/s0-08.jpg",
         json: "samples/en/s0-08.json"
       },
       s09: {
-        text: "小怪獸上下移動",
+        text: "Moving up and down",
         img: "samples/en/s0-09.jpg",
         json: "samples/en/s0-09.json"
       },
       s10: {
-        text: "點擊小怪獸講話發聲",
+        text: "Click the monster to speak",
         img: "samples/en/s0-10.jpg",
         json: "samples/en/s0-10.json"
       },
       s11: {
-        text: "小怪獸跟著滑鼠移動並旋轉",
+        text: "Follow mouse-pointer to move and rotate",
         img: "samples/en/s0-11.jpg",
         json: "samples/en/s0-11.json"
       },
       s12: {
-        text: "點擊小怪獸發出各種音效",
+        text: "Click the monster to make a sound effect",
         img: "samples/en/s0-12.jpg",
         json: "samples/en/s0-12.json"
       }
     },
     s1: {
       s01: {
-        text: "小怪獸邊移動邊旋轉",
+        text: "Rotate while moving",
         img: "samples/en/s1-01.jpg",
         json: "samples/en/s1-01.json"
       },
       s02: {
-        text: "小怪獸自動依序改變尺寸",
+        text: "Change size in order",
         img: "samples/en/s1-02.jpg",
         json: "samples/en/s1-02.json"
       },
       s03: {
-        text: "聲控改變小怪獸尺寸",
+        text: "Voice changes monster size",
         img: "samples/en/s1-03.jpg",
         json: "samples/en/s1-03.json"
       },
       s04: {
-        text: "樂透電腦自動選號",
+        text: "Big Lottery",
         img: "samples/en/s1-04.jpg",
         json: "samples/en/s1-04.json"
       },
       s05: {
-        text: "小怪獸依序講話",
+        text: "Monsters speak in order",
         img: "samples/en/s1-05.jpg",
         json: "samples/en/s1-05.json"
       },
       s06: {
-        text: "依序輸入文字讓小怪獸講話",
+        text: "Enter text in order for the monster to speak",
         img: "samples/en/s1-06.jpg",
         json: "samples/en/s1-06.json"
       },
       s07: {
-        text: "輸入文字指定小怪獸講話",
+        text: "Enter text to specify a monster to speak",
         img: "samples/en/s1-07.jpg",
         json: "samples/en/s1-07.json"
       },
       s08: {
-        text: "小怪獸連續問答",
+        text: "Continuous question and answer",
         img: "samples/en/s1-08.jpg",
         json: "samples/en/s1-08.json"
       },
       s09: {
-        text: "小怪獸學九九乘法",
+        text: "Ninety-nine multiplication",
         img: "samples/en/s1-09.jpg",
         json: "samples/en/s1-09.json"
       },
       s10: {
-        text: "小怪獸語音朗讀逐字稿",
+        text: "Verbatim voice",
         img: "samples/en/s1-10.jpg",
         json: "samples/en/s1-10.json"
       },
       s11: {
-        text: "鍵盤操控小怪獸，碰到其他小怪獸就說話",
+        text: "Keyboard-controlled monsters,Talk if you touch other little monsters",
         img: "samples/en/s1-11.jpg",
         json: "samples/en/s1-11.json"
       },
       s12: {
-        text: "小怪獸描述舞台尺寸，改變高度時改變顏色",
+        text: "Describe the size of the stage, change color when changing height",
         img: "samples/en/s1-12.jpg",
         json: "samples/en/s1-12.json"
       }
     },
     bits: {
       s01: {
-        text: "矩陣 LED 顯示圖形",
+        text: "Display graphics",
         img: "samples/en/bit-s-01.jpg",
         json: "samples/en/bit-s-01.json"
       },
       s02: {
-        text: "矩陣 LED 心跳動畫",
+        text: "Heartbeat animation",
         img: "samples/en/bit-s-02.jpg",
         json: "samples/en/bit-s-02.json"
       },
       s03: {
-        text: "按鈕開關切換剪刀、石頭、布",
+        text: "Button switch patterns",
         img: "samples/en/bit-s-03.jpg",
         json: "samples/en/bit-s-03.json"
       },
       s04: {
-        text: "按鈕開關控制小怪獸尺寸",
+        text: "Button controls monster size",
         img: "samples/en/bit-s-04.jpg",
         json: "samples/en/bit-s-04.json"
       },
       s05: {
-        text: "點擊小怪獸切換圖案",
+        text: "Tap the monster to switch patterns",
         img: "samples/en/bit-s-05.jpg",
         json: "samples/en/bit-s-05.json"
       },
       s06: {
-        text: "按鈕開關控制小怪獸自動旋轉、停止旋轉",
+        text: "Button controls monster rotation",
         img: "samples/en/bit-s-06.jpg",
         json: "samples/en/bit-s-06.json"
       },
       s07: {
-        text: "小怪獸講出光度和溫度",
+        text: "Display lumens and temperature",
         img: "samples/en/bit-s-07.jpg",
         json: "samples/en/bit-s-07.json"
       },
       s08: {
-        text: "光度切換矩陣 LED 圖形",
+        text: "Lumen switching graphics",
         img: "samples/en/bit-s-08.jpg",
         json: "samples/en/bit-s-08.json"
       },
       s09: {
-        text: "蜂鳴器播放音樂",
+        text: "Buzzer playing music",
         img: "samples/en/bit-s-09.jpg",
         json: "samples/en/bit-s-09.json"
       },
       s10: {
-        text: "點擊不同小怪獸，播放不同音樂",
+        text: "Click on the monster to play music",
         img: "samples/en/bit-s-10.jpg",
         json: "samples/en/bit-s-10.json"
       },
       s11: {
-        text: "旋轉開發板切換圖案",
+        text: "Rotate the board to switch patterns",
         img: "samples/en/bit-s-11.jpg",
         json: "samples/en/bit-s-11.json"
       },
       s12: {
-        text: "電子骰子",
+        text: "Electronic dice",
         img: "samples/en/bit-s-12.jpg",
         json: "samples/en/bit-s-12.json"
       }
     },
     bita: {
       s01: {
-        text: "輸入文字控制燈號",
+        text: "Enter text control light",
         img: "samples/en/bit-a-01.jpg",
         json: "samples/en/bit-a-01.json"
       },
       s02: {
-        text: "燈號依序水平移動",
+        text: "Lights move horizontally in order",
         img: "samples/en/bit-a-02.jpg",
         json: "samples/en/bit-a-02.json"
       },
       s03: {
-        text: "燈號依序繞著周圍移動",
+        text: "Lights sequentially move around",
         img: "samples/en/bit-a-03.jpg",
         json: "samples/en/bit-a-03.json"
       },
       s04: {
-        text: "燈號水平反彈移動",
+        text: "Light bounces horizontally",
         img: "samples/en/bit-a-04.jpg",
         json: "samples/en/bit-a-04.json"
       },
       s05: {
-        text: "燈號反彈球效果",
+        text: "Light bounce ball effect",
         img: "samples/en/bit-a-05.jpg",
         json: "samples/en/bit-a-05.json"
       },
       s06: {
-        text: "鍵盤操控燈號移動",
+        text: "Keyboard control light movement",
         img: "samples/en/bit-a-06.jpg",
         json: "samples/en/bit-a-06.json"
       },
       s07: {
-        text: "轉動開發板控制燈號移動",
+        text: "Turn the board to control light movement",
         img: "samples/en/bit-a-07.jpg",
         json: "samples/en/bit-a-07.json"
       },
       s08: {
-        text: "加速度拳力偵測器",
+        text: "Force detection",
         img: "samples/en/bit-a-08.jpg",
         json: "samples/en/bit-a-08.json"
       },
