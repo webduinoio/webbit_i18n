@@ -951,6 +951,9 @@ Blockly.Msg.NUMBER_CONVERT_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html
 Blockly.Msg.BIT_TEXT_LENGTH_STRING = "字符串";
 Blockly.Msg.BIT_TEXT_LENGTH = "的长度";
 Blockly.Msg.BIT_TEXT_LENGTH_HELPURL = Blockly.Msg.TUTORIAL_URL + "basic/text.html#text11";
+Blockly.Msg.BIT_TEXT_TO_NUM = "轉成";
+Blockly.Msg.BIT_TEXT_TO_NUM_NUM = "數字";
+Blockly.Msg.BIT_TEXT_TO_NUM_STRING = "文字";
 
 // Web:Bit - Array
 

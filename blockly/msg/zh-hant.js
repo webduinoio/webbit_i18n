@@ -167,6 +167,7 @@ var MSG = {
   webbitMenuMoreExtensionBtn: "擴充",
   webbitMenuStore: "購買套件",
   webbitMenuMoreWifiOnly: "Wi-Fi 限定",
+  webbitMenuMoreDisabled: "無法使用",
   webbitMenuMoreCommingSoon: "即將推出",
   webbitMenuMoreDownload: "下載安裝",
   webbitMenuMorePreview: "網頁預覽",

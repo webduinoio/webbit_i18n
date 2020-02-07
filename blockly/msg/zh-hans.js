@@ -170,6 +170,7 @@ var MSG = {
   webbitMenuMoreExtensionBtn: "扩展",
   webbitMenuStore: "购买套件",
   webbitMenuMoreWifiOnly: "Wi-Fi 限制",
+  webbitMenuMoreDisabled: "無法使用",
   webbitMenuMoreCommingSoon: "即将推出",
   webbitMenuMoreDownload: "下载安装",
   webbitMenuMorePreview: "網頁預覽",
