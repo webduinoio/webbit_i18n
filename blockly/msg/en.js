@@ -167,6 +167,7 @@ var MSG = {
   webbitMenuMoreExtensionBtn: "Extension",
   webbitMenuStore: "Buy",
   webbitMenuMoreWifiOnly: "Wi-Fi Only",
+  webbitMenuMoreDisabled: "Disabled",
   webbitMenuMoreCommingSoon: "Comming soon",
   webbitMenuMoreDownload: "Download",
   webbitMenuMorePreview: "Preview",
