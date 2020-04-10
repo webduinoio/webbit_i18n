@@ -46,3 +46,6 @@ Blockly.Msg.WEBDUINO_RGBLED_SETCOLOR = "设定颜色";
 
 Blockly.Msg.WEBDUINO_PHOTOCELL_PIN = "光敏电阻，引脚";
 Blockly.Msg.WEBDUINO_PHOTOCELL_VAL = "光敏电阻检测到的数值";
+
+Blockly.Msg.WEBDUINO_POTENTIOMETER = "可变电阻侦测，类比脚位：";
+Blockly.Msg.WEBDUINO_POTENTIOMETER_VAL = "侦测的可电电阻";

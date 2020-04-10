@@ -46,3 +46,6 @@ Blockly.Msg.WEBDUINO_RGBLED_SETCOLOR = "Set Color";
 
 Blockly.Msg.WEBDUINO_PHOTOCELL_PIN = "Photocell Pin";
 Blockly.Msg.WEBDUINO_PHOTOCELL_VAL = "Detected value from Photocell";
+
+Blockly.Msg.WEBDUINO_POTENTIOMETER = "Potentiometer, Analog Pin:";
+Blockly.Msg.WEBDUINO_POTENTIOMETER_VAL = "Detected Potentiometer Value";
