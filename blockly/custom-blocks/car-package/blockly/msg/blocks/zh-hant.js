@@ -43,6 +43,7 @@ Blockly.Msg.WEBDUINO_CARBUTTON_EVENT_WHEN = "當小車按鈕被";
 Blockly.Msg.WEBDUINO_ULTRASONIC_DISTANCE = "超音波傳感器所擷取的距離 ( 公分 )";
 
 Blockly.Msg.WEBDUINO_IRRECV_ON = "當紅外線接收到訊號";
+Blockly.Msg.WEBDUINO_IRRECV_AC_ON = "當冷氣紅外線接收到訊號";
 Blockly.Msg.WEBDUINO_IRRECV_DO = "執行";
 Blockly.Msg.WEBDUINO_IRRECV_CODE = "紅外線接收的代碼";
 Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE = "紅外線發射代碼 ( 十六進位 )";

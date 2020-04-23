@@ -1,7 +1,10 @@
-Blockly.Msg.WEBBIT_IRRECV_ON = "红外线接收 ( 引脚 1 )，开始接收信号";
+Blockly.Msg.WEBBIT_IRRECV_WHEN = "当红外线引脚";
+Blockly.Msg.WEBBIT_IRRECV_AC_WHEN = "當冷气红外线引脚";
+Blockly.Msg.WEBBIT_IRRECV_ON = "接收到信号";
 Blockly.Msg.WEBBIT_IRRECV_DO = "执行";
 Blockly.Msg.WEBBIT_IRRECV_CODE = "红外线接收的代码";
-Blockly.Msg.WEBBIT_IRLED_LAUNCHCODE = "红外线发射 ( 引脚 2 )，发射代码 ( 十六进位 )";
+Blockly.Msg.WEBBIT_IRLED_LAUNCH = "红外线发射引脚";
+Blockly.Msg.WEBBIT_IRLED_LAUNCHCODE = "，发射代码 ( 十六进位 )";
 
 Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_TRIG = "超音波传感器，Trig";
 Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_ECHO = " Echo";
