@@ -1412,6 +1412,6 @@ Blockly.Msg.BIT_MPU9250_VAL_MAGZ = "z ( mag )";
 Blockly.Msg.BIT_MPU9250_VAL = "";
 Blockly.Msg.BIT_MPU9250_VAL_HELPURL = Blockly.Msg.TUTORIAL_URL + "board/mpu9250.html#mpu02";
 
+// Web:Bit MQTT Server
 
-
-
+Blockly.Msg.BIT_MQTT_SERVER = "";
