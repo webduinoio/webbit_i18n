@@ -47,6 +47,10 @@ Blockly.Msg.WEBDUINO_IRRECV_AC_ON = "冷气红外线开始接收信号";
 Blockly.Msg.WEBDUINO_IRRECV_DO = "执行";
 Blockly.Msg.WEBDUINO_IRRECV_CODE = "红外线接收的代码";
 Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE = "红外线发射代码 ( 十六进位 )";
+Blockly.Msg.WEBDUINO_IRRECV_ON_WHEN = "当";
+Blockly.Msg.WEBDUINO_IRRECV_COMMON = "一般";
+Blockly.Msg.WEBDUINO_IRRECV_AC = "冷气";
+Blockly.Msg.WEBDUINO_IRRECV_ON_GET = "红外线，接收到讯号";
 
 Blockly.Msg.WEBDUINO_WS2812_LED_SET = "设定 LED 灯环";
 Blockly.Msg.WEBDUINO_WS2812_LED_COLOR = "颗颜色为";

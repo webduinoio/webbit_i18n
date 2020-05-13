@@ -47,6 +47,10 @@ Blockly.Msg.WEBDUINO_IRRECV_AC_ON = "當冷氣紅外線接收到訊號";
 Blockly.Msg.WEBDUINO_IRRECV_DO = "執行";
 Blockly.Msg.WEBDUINO_IRRECV_CODE = "紅外線接收的代碼";
 Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE = "紅外線發射代碼 ( 十六進位 )";
+Blockly.Msg.WEBDUINO_IRRECV_ON_WHEN = "當";
+Blockly.Msg.WEBDUINO_IRRECV_COMMON = "一般";
+Blockly.Msg.WEBDUINO_IRRECV_AC = "冷氣";
+Blockly.Msg.WEBDUINO_IRRECV_ON_GET = "紅外線，接收到訊號";
 
 Blockly.Msg.WEBDUINO_WS2812_LED_SET = "設定魔幻 LED 第";
 Blockly.Msg.WEBDUINO_WS2812_LED_COLOR = "顆顏色為";
