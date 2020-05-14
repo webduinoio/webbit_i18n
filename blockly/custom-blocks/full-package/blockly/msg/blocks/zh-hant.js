@@ -39,7 +39,7 @@ Blockly.Msg.WEBDUINO_SHOCK_EVENT_LOW = "斷電";
 Blockly.Msg.WEBDUINO_RELAY_BIT = "繼電器，腳位";
 Blockly.Msg.WEBDUINO_RELAY_SET_STATE = "設定狀態";
 
-Blockly.Msg.WEBDUINO_SOIL = "土壤濕度偵測，類比腳位";
+Blockly.Msg.WEBDUINO_SOIL = "土壤濕度偵測，腳位";
 Blockly.Msg.WEBDUINO_SOIL_VAL = "偵測到的數值";
 
 Blockly.Msg.WEBDUINO_LED = "LED 燈，腳位";
