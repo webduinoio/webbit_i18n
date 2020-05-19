@@ -1,7 +1,14 @@
-Blockly.Msg.WEBDUINO_IRRECV_ON = "红外线开始接收信号";
-Blockly.Msg.WEBDUINO_IRRECV_DO = "执行";
-Blockly.Msg.WEBDUINO_IRRECV_CODE = "红外线接收的代码";
-Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE = "红外线发射代码 ( 十六进位 )";
+Blockly.Msg.WEBBIT_IRRECV_WHEN = "当红外线引脚";
+Blockly.Msg.WEBBIT_IRRECV_AC_WHEN = "當冷气红外线引脚";
+Blockly.Msg.WEBBIT_IRRECV_ON = "接收到信号";
+Blockly.Msg.WEBBIT_IRRECV_DO = "执行";
+Blockly.Msg.WEBBIT_IRRECV_CODE = "红外线接收的代码";
+Blockly.Msg.WEBBIT_IRLED_LAUNCH = "红外线发射引脚";
+Blockly.Msg.WEBBIT_IRLED_LAUNCHCODE = "，发射代码 ( 十六进位 )";
+Blockly.Msg.WEBBIT_IRRECV_WHEN_COMBINE = "当";
+Blockly.Msg.WEBBIT_IRRECV_COMMON = "一般";
+Blockly.Msg.WEBBIT_IRRECV_AC = "冷气";
+Blockly.Msg.WEBBIT_IRRECV_PIN = "红外线，引脚";
 
 Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_TRIG = "超音波传感器，Trig";
 Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_ECHO = " Echo";
@@ -46,3 +53,6 @@ Blockly.Msg.WEBDUINO_RGBLED_SETCOLOR = "设定颜色";
 
 Blockly.Msg.WEBDUINO_PHOTOCELL_PIN = "光敏电阻，引脚";
 Blockly.Msg.WEBDUINO_PHOTOCELL_VAL = "光敏电阻检测到的数值";
+
+Blockly.Msg.WEBDUINO_POTENTIOMETER = "可变电阻侦测，类比脚位：";
+Blockly.Msg.WEBDUINO_POTENTIOMETER_VAL = "侦测的可电电阻";

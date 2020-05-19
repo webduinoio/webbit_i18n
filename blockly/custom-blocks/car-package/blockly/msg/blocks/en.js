@@ -43,9 +43,14 @@ Blockly.Msg.WEBDUINO_CARBUTTON_EVENT_WHEN = "When Car's Button Has Been";
 Blockly.Msg.WEBDUINO_ULTRASONIC_DISTANCE = "Detected Distance from Ultrasonic Sensor ( cm )";
 
 Blockly.Msg.WEBDUINO_IRRECV_ON = "When Receive Code from IR Sensor";
+Blockly.Msg.WEBDUINO_IRRECV_AC_ON = "When Air Conditioner Receive Code from IR Sensor";
 Blockly.Msg.WEBDUINO_IRRECV_DO = "Do";
 Blockly.Msg.WEBDUINO_IRRECV_CODE = "Received Code from IR Receiver";
 Blockly.Msg.WEBDUINO_IRLED_LAUNCHCODE = "IR Send Codes (HEX):";
+Blockly.Msg.WEBDUINO_IRRECV_ON_WHEN = "When";
+Blockly.Msg.WEBDUINO_IRRECV_COMMON = "Common";
+Blockly.Msg.WEBDUINO_IRRECV_AC = "AC";
+Blockly.Msg.WEBDUINO_IRRECV_ON_GET = "IR Sensor, Receive Code";
 
 Blockly.Msg.WEBDUINO_WS2812_LED_SET = "Set Number";
 Blockly.Msg.WEBDUINO_WS2812_LED_UNIT = "";

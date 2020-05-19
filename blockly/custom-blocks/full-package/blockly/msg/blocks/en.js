@@ -1,7 +1,14 @@
-Blockly.Msg.WEBBIT_IRRECV_ON = "When Receive Code from IR Sensor";
+Blockly.Msg.WEBBIT_IRRECV_WHEN = "When IR Pin";
+Blockly.Msg.WEBBIT_IRRECV_AC_WHEN = "When Air Conditioner IR Pin";
+Blockly.Msg.WEBBIT_IRRECV_ON = "Receive Code from IR Sensor";
 Blockly.Msg.WEBBIT_IRRECV_DO = "Do";
 Blockly.Msg.WEBBIT_IRRECV_CODE = "Received Code from IR Receiver";
-Blockly.Msg.WEBBIT_IRLED_LAUNCHCODE = "IR Send Codes (HEX):";
+Blockly.Msg.WEBBIT_IRLED_LAUNCH = "IR Send Pin";
+Blockly.Msg.WEBBIT_IRLED_LAUNCHCODE = ", Send IR Codes (HEX):";
+Blockly.Msg.WEBBIT_IRRECV_WHEN_COMBINE = "When";
+Blockly.Msg.WEBBIT_IRRECV_COMMON = "Common";
+Blockly.Msg.WEBBIT_IRRECV_AC = "AC";
+Blockly.Msg.WEBBIT_IRRECV_PIN = "IR Pin";
 
 Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_TRIG = "Ultrasonic, TRIG:";
 Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_ECHO = "  ECHO:";
@@ -46,3 +53,6 @@ Blockly.Msg.WEBDUINO_RGBLED_SETCOLOR = "Set Color";
 
 Blockly.Msg.WEBDUINO_PHOTOCELL_PIN = "Photocell Pin";
 Blockly.Msg.WEBDUINO_PHOTOCELL_VAL = "Detected value from Photocell";
+
+Blockly.Msg.WEBDUINO_POTENTIOMETER = "Potentiometer, Analog Pin:";
+Blockly.Msg.WEBDUINO_POTENTIOMETER_VAL = "Detected Potentiometer Value";
