@@ -1,0 +1,42 @@
+Blockly.Msg.WEBDUINO_TRACKING_FACE = "追蹤人臉的";
+Blockly.Msg.WEBDUINO_TRACKING_FACE_X = "x 座標";
+Blockly.Msg.WEBDUINO_TRACKING_FACE_Y = "y 座標";
+Blockly.Msg.WEBDUINO_TRACKING_FACE_W = "寬度";
+Blockly.Msg.WEBDUINO_TRACKING_FACE_H = "高度";
+Blockly.Msg.WEBDUINO_TRACKING_FACE_N = "數量";
+Blockly.Msg.WEBDUINO_TRACKING_FACE_HELPURL = "https://webbit.webduino.io/tutorials/doc/zh-tw/education/extension/tracking.html#tracking01";
+
+Blockly.Msg.WEBDUINO_TRACKING_COLOR = "追蹤";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_ALL = "所有顏色";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_RED = "紅色";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_BLUE = "藍色";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_GREEN = "綠色";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_YELLOW = "黃色";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_CYAN = "青色 ( 藍綠色 )";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_MAGENTA = "洋紅色 ( 紅紫色 )";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_S = "的";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_X = "x 座標";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_Y = "y 座標";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_W = "寬度";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_H = "高度";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_N = "名稱";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_NAME = "追蹤的顏色為";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_RED = "紅色";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_BLUE = "藍色";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_GREEN = "綠色";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_YELLOW = "黃色";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_CYAN = "青色 ( 藍綠色 )";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_MAGENTA = "洋紅色 ( 紅紫色 )";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_TRUEFALSE = "( 真或假 )";
+Blockly.Msg.WEBDUINO_TRACKING_COLOR_HELPURL = "https://webbit.webduino.io/tutorials/doc/zh-tw/education/extension/tracking.html#tracking02";
+
+Blockly.Msg.WEBDUINO_TRACKING_OPACITY = "設定 人臉＆顏色追蹤 的透明度為";
+Blockly.Msg.WEBDUINO_TRACKING_OPACITY_HELPURL = "https://webbit.webduino.io/tutorials/doc/zh-tw/education/extension/tracking.html#tracking03";
+
+Blockly.Msg.WEBDUINO_TRACKING_SQUARE_SHOW = "顯示";
+Blockly.Msg.WEBDUINO_TRACKING_SQUARE_HIDE = "隱藏";
+Blockly.Msg.WEBDUINO_TRACKING_SQUARE = "人臉＆顏色追蹤 的方框";
+Blockly.Msg.WEBDUINO_TRACKING_SQUARE_HELPURL = "https://webbit.webduino.io/tutorials/doc/zh-tw/education/extension/tracking.html#tracking04";
+Blockly.Msg.FaceDetectPico_COUNT_FACE = "追蹤人臉的 數量";
+Blockly.Msg.FaceDetectPico_VALUES_TEXT1 = "追蹤第";
+Blockly.Msg.FaceDetectPico_VALUES_TEXT2 = "個人臉的";
