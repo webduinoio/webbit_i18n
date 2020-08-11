@@ -1,6 +1,6 @@
 {
     "OTA_BASE_URL": "https://ota.webduino.io/WebBitOTA/",
-    "FWOTA_BASE_URL": "https://ota.webduino.io/WebBitFirmware/",
+    "FWOTA_BASE_URL": "https://webduinoio.github.io/wafirmata/",
     "APPNAME": "Web:Bit Local Version",
     "CHECK_UPDATE": "Checking update...",
     "DOWNLOAD_FILE": "Downloading update files, please wait...",
@@ -14,6 +14,7 @@
     "DONOT_CLOSE": "DO NOT close program nor remove USB cable while updating firmware",
     "DOWNLOAD_FW_DONE": "Finished to download firmware {0}, ready to update...",
     "UPDATE_FW_FAIL": "Fail to update new firmware {0}",
+    "RESTOREING_FW": "Restore firmware...",
     "DEVICE_DISCONNECT": "Device disconnected!",
     "FORECE_FW_UPDATE_MSG": "Restore firmware fixes firmware-related issues.\\nTo avoid detection errors, first remove the USB device other than Web:Bit.\\nThe Device ID could be changed after updating, please check and modify your project accordingly.\\nContinue?",
     "USB_DISABLED": "USB connection disabled",

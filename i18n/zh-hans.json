@@ -1,6 +1,6 @@
 {
     "OTA_BASE_URL": "https://ota.webduino.com.cn/WebBitOTA/",
-    "FWOTA_BASE_URL": "https://ota.webduino.com.cn/WebBitFirmware/",
+    "FWOTA_BASE_URL": "https://webduinoio.github.io/wafirmata/",
     "APPNAME": "Web:Bit 安装版",
     "CHECK_UPDATE": "检查线上更新...",
     "DOWNLOAD_FILE": "下载更新文档，请稍后...",
@@ -14,6 +14,7 @@
     "DONOT_CLOSE": "更新时请勿关闭软件或移除 USB 线",
     "DOWNLOAD_FW_DONE": "固件 {0} 下载完成，准备更新...",
     "UPDATE_FW_FAIL": "新版固件 {0} 更新失败",
+    "RESTOREING_FW": "恢复出厂固件...",
     "DEVICE_DISCONNECT": "设备未连线！",
     "FORECE_FW_UPDATE_MSG": "恢复出厂固件可修复固件相关问题。\\n为避免检测错误，请先移除 Web:Bit 以外的 USB 设备。\\n更新后可能重新配置设备 ID，请检查旧变量是否需要修改。\\n请问是否继续？",
     "USB_DISABLED": "USB 连接已关闭",
