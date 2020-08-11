@@ -1,0 +1,1 @@
+MSG.catTrackingJS = "人臉＆顏色追蹤";

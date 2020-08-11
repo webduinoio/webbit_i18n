@@ -1,0 +1,1 @@
+MSG.catTrackingJS = "Tracking face & color";
