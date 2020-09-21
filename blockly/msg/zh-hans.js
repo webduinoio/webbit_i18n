@@ -206,6 +206,10 @@ var MSG = {
     package: {
       title: "物联网开发套件",
       basic: "基础套件包"
+    },
+    other: {
+      title: "其他",
+      pm25: "PM2.5 检测器"
     }
   },
   webbitSampleTitleH2: "选择示例",

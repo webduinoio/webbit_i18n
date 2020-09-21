@@ -203,6 +203,10 @@ var MSG = {
     package: {
       title: "IoT Package",
       basic: "Basic Packge"
+    },
+    other: {
+      title: "Other",
+      pm25: "PM2.5"
     }
   },
   webbitSampleTitleH2: "Choose sample",
