@@ -441,5 +441,7 @@ var MSG = {
         json: "samples/en/bit-a-08.json"
       },
     }
-  }
+  },
+  catBasicFeature: "Basic",
+  catAdvancedFeature: "Advanced",
 };

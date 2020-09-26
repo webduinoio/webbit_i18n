@@ -444,5 +444,7 @@ var MSG = {
         json: "samples/zh-hans/bit-a-08.json"
       },
     }
-  }
+  },
+  catBasicFeature: "基础功能",
+  catAdvancedFeature: "进阶功能",
 };
