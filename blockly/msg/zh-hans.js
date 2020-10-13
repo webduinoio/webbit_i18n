@@ -206,6 +206,11 @@ var MSG = {
     package: {
       title: "物联网开发套件",
       basic: "基础套件包"
+    },
+    other: {
+      title: "其他",
+      picture: "图片",
+      text: "文字"
     }
   },
   webbitSampleTitleH2: "选择示例",
