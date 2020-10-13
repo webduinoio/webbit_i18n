@@ -203,6 +203,11 @@ var MSG = {
     package: {
       title: "IoT Package",
       basic: "Basic Packge"
+    },
+    other: {
+      title: "Other",
+      picture: "Picture",
+      text: "Text"
     }
   },
   webbitSampleTitleH2: "Choose sample",
@@ -441,5 +446,7 @@ var MSG = {
         json: "samples/en/bit-a-08.json"
       },
     }
-  }
+  },
+  catBasicFeature: "Basic",
+  catAdvancedFeature: "Advanced",
 };

@@ -203,6 +203,11 @@ var MSG = {
     package: {
       title: "物聯網開發套件",
       basic: "基礎套件包"
+    },
+    other: {
+      title: "其他功能",
+      picture: "圖片",
+      text: "文字"
     }
   },
   webbitSampleTitleH2: "選擇範例",
@@ -441,5 +446,7 @@ var MSG = {
         json: "samples/zh-hant/bit-a-08.json"
       },
     }
-  }
+  },
+  catBasicFeature: "基礎功能",
+  catAdvancedFeature: "進階功能",
 };
