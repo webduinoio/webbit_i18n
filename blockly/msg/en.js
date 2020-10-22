@@ -445,6 +445,85 @@ var MSG = {
         img: "samples/en/bit-a-08.jpg",
         json: "samples/en/bit-a-08.json"
       },
+    },
+    extension:{
+      a01:{
+        text: "( Sheet ) Loop and Data",
+        img: "samples/zh-hant/extension/a01.jpg",
+        json: "samples/zh-hant/extension/a01.json"
+      },
+      a02:{
+        text: "( Sheet ) Array",
+        img: "samples/zh-hant/extension/a02.jpg",
+        json: "samples/zh-hant/extension/a02.json"
+      },
+      a03:{
+        text: "( Sheet ) Button and Data",
+        img: "samples/zh-hant/extension/a03.jpg",
+        json: "samples/zh-hant/extension/a03.json"
+      },
+      a04:{
+        text: "( Sheet ) Saving Data",
+        img: "samples/zh-hant/extension/a04.jpg",
+        json: "samples/zh-hant/extension/a04.json"
+      },
+      a05:{
+        text: "( Sheet ) Reading Data",
+        img: "samples/zh-hant/extension/a05.jpg",
+        json: "samples/zh-hant/extension/a05.json"
+      },
+      a06:{
+        text: "( Sheet ) Reading Data 2",
+        img: "samples/zh-hant/extension/a06.jpg",
+        json: "samples/zh-hant/extension/a06.json"
+      },
+      b01:{
+        text: "( Weather ) Get Weather",
+        img: "samples/zh-hant/extension/b01.jpg",
+        json: "samples/zh-hant/extension/b01.json"
+      },
+      b02:{
+        text: "( Weather ) Show AQI",
+        img: "samples/zh-hant/extension/b02.jpg",
+        json: "samples/zh-hant/extension/b02.json"
+      },
+      b03:{
+        text: "( Weather ) Show Radar",
+        img: "samples/zh-hant/extension/b03.jpg",
+        json: "samples/zh-hant/extension/b03.json"
+      },
+      c01:{
+        text: "( Broadcast ) Send message",
+        img: "samples/zh-hant/extension/c01.jpg",
+        json: "samples/zh-hant/extension/c01.json"
+      },
+      c02:{
+        text: "( Broadcast ) Send message to control LED",
+        img: "samples/zh-hant/extension/c02.jpg",
+        json: "samples/zh-hant/extension/c02.json"
+      },
+      d01:{
+        text: "( LINE ) Send LINE Notify",
+        img: "samples/zh-hant/extension/d01.jpg",
+        json: "samples/zh-hant/extension/d01.json"
+      },
+      d02:{
+        text: "( LINE ) Web:Bit + LINE Notify",
+        img: "samples/zh-hant/extension/d02.jpg",
+        json: "samples/zh-hant/extension/d02.json"
+      },
+      d03:{
+        text: "( LINE ) LINE control Web:Bit",
+        img: "samples/zh-hant/extension/d03.jpg",
+        json: "samples/zh-hant/extension/d03.json"
+      },
+      d04:{
+        text: "( LINE ) Light + LINE Notify",
+        img: "samples/zh-hant/extension/d04.jpg",
+        json: "samples/zh-hant/extension/d04.json"
+      }
     }
-  }
+  },
+  catBasicFeature: "Basic",
+  catAdvancedFeature: "Advanced",
 };
