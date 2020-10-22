@@ -170,12 +170,12 @@ var MSG = {
   webbitMenuMoreExtensionBtn: "扩展",
   webbitMenuStore: "购买套件",
   webbitMenuMoreWifiOnly: "Wi-Fi 限制",
-  webbitMenuMoreDisabled: "無法使用",
+  webbitMenuMoreDisabled: "无法使用",
   webbitMenuMoreCommingSoon: "即将推出",
   webbitMenuMoreDownload: "下载安装",
-  webbitMenuMorePreview: "網頁預覽",
-  webbitQrcodePreviewTitle: "網頁預覽",
-  webbitQrcodePreviewURL: "開啟連結預覽",
+  webbitMenuMorePreview: "网页预览",
+  webbitQrcodePreviewTitle: "网页预览",
+  webbitQrcodePreviewURL: "开启连结预览",
   webbitMenuRun: "执行",
   webbitMenuStop: "停止",
   webbitMenuTutorialsURL: "https://webbit.webduino.io/tutorials/doc/zh-cn/education/index.html",
@@ -191,17 +191,17 @@ var MSG = {
       weather: "即时气象",
       radio: "网络广播",
       line: "LINE",
-      microphone: "錄音＆音量",
+      microphone: "录音＆音量",
       youtube: "Youtube",
-      trackingjs: "人臉＆顏色追蹤",
-      videoSensing: "視訊偵測",
+      trackingjs: "人脸＆颜色追踪",
+      videoSensing: "视讯侦测",
       basicPackage: "基础套件包",
       carPackage: "小车套件包",
-      fullPackage: "擴充套件包",
+      fullPackage: "扩充套件包",
       sensorBoard: "Sensor Board"
     },
     interaction:{
-      title: "影音互動"
+      title: "影音互动"
     },
     package: {
       title: "物联网开发套件",
@@ -448,6 +448,83 @@ var MSG = {
         img: "samples/zh-hans/bit-a-08.jpg",
         json: "samples/zh-hans/bit-a-08.json"
       },
+    },
+    extension:{
+      a01:{
+        text: "( 试算表 ) 使用回圈写入资料",
+        img: "samples/zh-hant/extension/a01.jpg",
+        json: "samples/zh-hant/extension/a01.json"
+      },
+      a02:{
+        text: "( 试算表 ) 写入阵列资料",
+        img: "samples/zh-hant/extension/a02.jpg",
+        json: "samples/zh-hant/extension/a02.json"
+      },
+      a03:{
+        text: "( 试算表 ) 按压按钮开关写入资料",
+        img: "samples/zh-hant/extension/a03.jpg",
+        json: "samples/zh-hant/extension/a03.json"
+      },
+      a04:{
+        text: "( 试算表 ) 纪录环境亮度",
+        img: "samples/zh-hant/extension/a04.jpg",
+        json: "samples/zh-hant/extension/a04.json"
+      },
+      a05:{
+        text: "( 试算表 ) 读取特定储存格资料",
+        img: "samples/zh-hant/extension/a05.jpg",
+        json: "samples/zh-hant/extension/a05.json"
+      },
+      a06:{
+        text: "( 试算表 ) 读取所有资料，透过阵列呈现",
+        img: "samples/zh-hant/extension/a06.jpg",
+        json: "samples/zh-hant/extension/a06.json"
+      },
+      b01:{
+        text: "( 气象资讯 ) 读取天气资讯",
+        img: "samples/zh-hant/extension/b01.jpg",
+        json: "samples/zh-hant/extension/b01.json"
+      },
+      b02:{
+        text: "( 气象资讯 ) 透过灯光颜色显示空气品质",
+        img: "samples/zh-hant/extension/b02.jpg",
+        json: "samples/zh-hant/extension/b02.json"
+      },
+      b03:{
+        text: "( 气象资讯 ) 背景显示雷达回波图",
+        img: "samples/zh-hant/extension/b03.jpg",
+        json: "samples/zh-hant/extension/b03.json"
+      },
+      c01:{
+        text: "( 网路广播 ) 点击小怪兽发送广播讯号",
+        img: "samples/zh-hant/extension/c01.jpg",
+        json: "samples/zh-hant/extension/c01.json"
+      },
+      c02:{
+        text: "( 网路广播 ) 发送广播讯号控制灯光颜色",
+        img: "samples/zh-hant/extension/c02.jpg",
+        json: "samples/zh-hant/extension/c02.json"
+      },
+      d01:{
+        text: "( LINE ) 点击怪兽发送 LINE Notify",
+        img: "samples/zh-hant/extension/d01.jpg",
+        json: "samples/zh-hant/extension/d01.json"
+      },
+      d02:{
+        text: "( LINE ) 点击 Web:Bit 开关发送 LINE Notify",
+        img: "samples/zh-hant/extension/d02.jpg",
+        json: "samples/zh-hant/extension/d02.json"
+      },
+      d03:{
+        text: "( LINE ) LINE 控制 Web:Bit",
+        img: "samples/zh-hant/extension/d03.jpg",
+        json: "samples/zh-hant/extension/d03.json"
+      },
+      d04:{
+        text: "( LINE ) Web:Bit 侦测光线发送 LINE Notify",
+        img: "samples/zh-hant/extension/d04.jpg",
+        json: "samples/zh-hant/extension/d04.json"
+      }
     }
   },
   catBasicFeature: "基础功能",

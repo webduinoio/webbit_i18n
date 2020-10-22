@@ -215,7 +215,8 @@ var MSG = {
     s0: "基礎操作",
     s1: "進階控制",
     bits: "Web:Bit 物聯網入門",
-    bita: "Web:Bit 物聯網進階"
+    bita: "Web:Bit 物聯網進階",
+    extension: "擴充功能"
   },
   webbitSample: {
     s0: {
@@ -445,6 +446,83 @@ var MSG = {
         img: "samples/zh-hant/bit-a-08.jpg",
         json: "samples/zh-hant/bit-a-08.json"
       },
+    },
+    extension:{
+      a01:{
+        text: "( 試算表 ) 使用迴圈寫入資料",
+        img: "samples/zh-hant/extension/a01.jpg",
+        json: "samples/zh-hant/extension/a01.json"
+      },
+      a02:{
+        text: "( 試算表 ) 寫入陣列資料",
+        img: "samples/zh-hant/extension/a02.jpg",
+        json: "samples/zh-hant/extension/a02.json"
+      },
+      a03:{
+        text: "( 試算表 ) 按壓按鈕開關寫入資料",
+        img: "samples/zh-hant/extension/a03.jpg",
+        json: "samples/zh-hant/extension/a03.json"
+      },
+      a04:{
+        text: "( 試算表 ) 紀錄環境亮度",
+        img: "samples/zh-hant/extension/a04.jpg",
+        json: "samples/zh-hant/extension/a04.json"
+      },
+      a05:{
+        text: "( 試算表 ) 讀取特定儲存格資料",
+        img: "samples/zh-hant/extension/a05.jpg",
+        json: "samples/zh-hant/extension/a05.json"
+      },
+      a06:{
+        text: "( 試算表 ) 讀取所有資料，透過陣列呈現",
+        img: "samples/zh-hant/extension/a06.jpg",
+        json: "samples/zh-hant/extension/a06.json"
+      },
+      b01:{
+        text: "( 氣象資訊 ) 讀取天氣資訊",
+        img: "samples/zh-hant/extension/b01.jpg",
+        json: "samples/zh-hant/extension/b01.json"
+      },
+      b02:{
+        text: "( 氣象資訊 ) 透過燈光顏色顯示空氣品質",
+        img: "samples/zh-hant/extension/b02.jpg",
+        json: "samples/zh-hant/extension/b02.json"
+      },
+      b03:{
+        text: "( 氣象資訊 ) 背景顯示雷達回波圖",
+        img: "samples/zh-hant/extension/b03.jpg",
+        json: "samples/zh-hant/extension/b03.json"
+      },
+      c01:{
+        text: "( 網路廣播 ) 點擊小怪獸發送廣播訊號",
+        img: "samples/zh-hant/extension/c01.jpg",
+        json: "samples/zh-hant/extension/c01.json"
+      },
+      c02:{
+        text: "( 網路廣播 ) 發送廣播訊號控制燈光顏色",
+        img: "samples/zh-hant/extension/c02.jpg",
+        json: "samples/zh-hant/extension/c02.json"
+      },
+      d01:{
+        text: "( LINE ) 點擊怪獸發送 LINE Notify",
+        img: "samples/zh-hant/extension/d01.jpg",
+        json: "samples/zh-hant/extension/d01.json"
+      },
+      d02:{
+        text: "( LINE ) 點擊 Web:Bit 開關發送 LINE Notify",
+        img: "samples/zh-hant/extension/d02.jpg",
+        json: "samples/zh-hant/extension/d02.json"
+      },
+      d03:{
+        text: "( LINE ) LINE 控制 Web:Bit",
+        img: "samples/zh-hant/extension/d03.jpg",
+        json: "samples/zh-hant/extension/d03.json"
+      },
+      d04:{
+        text: "( LINE ) Web:Bit 偵測光線發送 LINE Notify",
+        img: "samples/zh-hant/extension/d04.jpg",
+        json: "samples/zh-hant/extension/d04.json"
+      }
     }
   },
   catBasicFeature: "基礎功能",
