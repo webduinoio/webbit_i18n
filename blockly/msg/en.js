@@ -521,6 +521,61 @@ var MSG = {
         text: "( LINE ) Light + LINE Notify",
         img: "samples/zh-hant/extension/d04.jpg",
         json: "samples/zh-hant/extension/d04.json"
+      },
+      e01:{
+        text: "( Youtube ) 按鈕開關控制影片播放",
+        img: "samples/zh-hant/extension/e01.jpg",
+        json: "samples/zh-hant/extension/e01.json"
+      },
+      e02:{
+        text: "( Youtube ) 偵測光線控制影片播放速度",
+        img: "samples/zh-hant/extension/e02.jpg",
+        json: "samples/zh-hant/extension/e02.json"
+      },
+      f01:{
+        text: "( 錄音＆音量 ) 基本錄音與播放",
+        img: "samples/zh-hant/extension/f01.jpg",
+        json: "samples/zh-hant/extension/f01.json"
+      },
+      f02:{
+        text: "( 錄音＆音量 ) 使用陣列連續錄音與播放",
+        img: "samples/zh-hant/extension/f02.jpg",
+        json: "samples/zh-hant/extension/f02.json"
+      },
+      f03:{
+        text: "( 錄音＆音量 ) 麥克風音量控制小怪獸尺寸",
+        img: "samples/zh-hant/extension/f03.jpg",
+        json: "samples/zh-hant/extension/f03.json"
+      },
+      f04:{
+        text: "( 錄音＆音量 ) 矩陣 LED 顯示音量大小",
+        img: "samples/zh-hant/extension/f04.jpg",
+        json: "samples/zh-hant/extension/f04.json"
+      },
+      g01:{
+        text: "( 人臉＆顏色追蹤 ) 追蹤人臉位置與數量",
+        img: "samples/zh-hant/extension/g01.jpg",
+        json: "samples/zh-hant/extension/g01.json"
+      },
+      g02:{
+        text: "( 人臉＆顏色追蹤 ) 小怪獸跟隨人臉移動",
+        img: "samples/zh-hant/extension/g02.jpg",
+        json: "samples/zh-hant/extension/g02.json"
+      },
+      g03:{
+        text: "( 人臉＆顏色追蹤 ) 小怪獸顯示追蹤的顏色",
+        img: "samples/zh-hant/extension/g03.jpg",
+        json: "samples/zh-hant/extension/g03.json"
+      },
+      h01:{
+        text: "( 影像偵測 ) 隔空碰觸小怪獸",
+        img: "samples/zh-hant/extension/h01.jpg",
+        json: "samples/zh-hant/extension/h01.json"
+      },
+      h02:{
+        text: "( 影像偵測 ) 隔空揮手不讓怪獸掉落",
+        img: "samples/zh-hant/extension/h02.jpg",
+        json: "samples/zh-hant/extension/h02.json"
       }
     }
   },
