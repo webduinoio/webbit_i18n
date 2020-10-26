@@ -207,7 +207,8 @@ var MSG = {
     other: {
       title: "其他功能",
       picture: "圖片",
-      text: "文字"
+      text: "文字",
+      pm25: "PM2.5 感測器"
     }
   },
   webbitSampleTitleH2: "選擇範例",
@@ -215,7 +216,8 @@ var MSG = {
     s0: "基礎操作",
     s1: "進階控制",
     bits: "Web:Bit 物聯網入門",
-    bita: "Web:Bit 物聯網進階"
+    bita: "Web:Bit 物聯網進階",
+    extension: "擴充功能"
   },
   webbitSample: {
     s0: {
@@ -445,6 +447,138 @@ var MSG = {
         img: "samples/zh-hant/bit-a-08.jpg",
         json: "samples/zh-hant/bit-a-08.json"
       },
+    },
+    extension:{
+      a01:{
+        text: "( 試算表 ) 使用迴圈寫入資料",
+        img: "samples/zh-hant/extension/a01.jpg",
+        json: "samples/zh-hant/extension/a01.json"
+      },
+      a02:{
+        text: "( 試算表 ) 寫入陣列資料",
+        img: "samples/zh-hant/extension/a02.jpg",
+        json: "samples/zh-hant/extension/a02.json"
+      },
+      a03:{
+        text: "( 試算表 ) 按壓按鈕開關寫入資料",
+        img: "samples/zh-hant/extension/a03.jpg",
+        json: "samples/zh-hant/extension/a03.json"
+      },
+      a04:{
+        text: "( 試算表 ) 紀錄環境亮度",
+        img: "samples/zh-hant/extension/a04.jpg",
+        json: "samples/zh-hant/extension/a04.json"
+      },
+      a05:{
+        text: "( 試算表 ) 讀取特定儲存格資料",
+        img: "samples/zh-hant/extension/a05.jpg",
+        json: "samples/zh-hant/extension/a05.json"
+      },
+      a06:{
+        text: "( 試算表 ) 讀取所有資料，透過陣列呈現",
+        img: "samples/zh-hant/extension/a06.jpg",
+        json: "samples/zh-hant/extension/a06.json"
+      },
+      b01:{
+        text: "( 氣象資訊 ) 讀取天氣資訊",
+        img: "samples/zh-hant/extension/b01.jpg",
+        json: "samples/zh-hant/extension/b01.json"
+      },
+      b02:{
+        text: "( 氣象資訊 ) 透過燈光顏色顯示空氣品質",
+        img: "samples/zh-hant/extension/b02.jpg",
+        json: "samples/zh-hant/extension/b02.json"
+      },
+      b03:{
+        text: "( 氣象資訊 ) 背景顯示雷達回波圖",
+        img: "samples/zh-hant/extension/b03.jpg",
+        json: "samples/zh-hant/extension/b03.json"
+      },
+      c01:{
+        text: "( 網路廣播 ) 點擊小怪獸發送廣播訊號",
+        img: "samples/zh-hant/extension/c01.jpg",
+        json: "samples/zh-hant/extension/c01.json"
+      },
+      c02:{
+        text: "( 網路廣播 ) 發送廣播訊號控制燈光顏色",
+        img: "samples/zh-hant/extension/c02.jpg",
+        json: "samples/zh-hant/extension/c02.json"
+      },
+      d01:{
+        text: "( LINE ) 點擊怪獸發送 LINE Notify",
+        img: "samples/zh-hant/extension/d01.jpg",
+        json: "samples/zh-hant/extension/d01.json"
+      },
+      d02:{
+        text: "( LINE ) 點擊按鈕開關發送 LINE Notify",
+        img: "samples/zh-hant/extension/d02.jpg",
+        json: "samples/zh-hant/extension/d02.json"
+      },
+      d03:{
+        text: "( LINE ) LINE 控制 Web:Bit",
+        img: "samples/zh-hant/extension/d03.jpg",
+        json: "samples/zh-hant/extension/d03.json"
+      },
+      d04:{
+        text: "( LINE ) 偵測光線發送 LINE Notify",
+        img: "samples/zh-hant/extension/d04.jpg",
+        json: "samples/zh-hant/extension/d04.json"
+      },
+      e01:{
+        text: "( Youtube ) 按鈕開關控制影片播放",
+        img: "samples/zh-hant/extension/e01.jpg",
+        json: "samples/zh-hant/extension/e01.json"
+      },
+      e02:{
+        text: "( Youtube ) 偵測光線控制影片播放速度",
+        img: "samples/zh-hant/extension/e02.jpg",
+        json: "samples/zh-hant/extension/e02.json"
+      },
+      f01:{
+        text: "( 錄音＆音量 ) 基本錄音與播放",
+        img: "samples/zh-hant/extension/f01.jpg",
+        json: "samples/zh-hant/extension/f01.json"
+      },
+      f02:{
+        text: "( 錄音＆音量 ) 使用陣列連續錄音與播放",
+        img: "samples/zh-hant/extension/f02.jpg",
+        json: "samples/zh-hant/extension/f02.json"
+      },
+      f03:{
+        text: "( 錄音＆音量 ) 麥克風音量控制小怪獸尺寸",
+        img: "samples/zh-hant/extension/f03.jpg",
+        json: "samples/zh-hant/extension/f03.json"
+      },
+      f04:{
+        text: "( 錄音＆音量 ) 矩陣 LED 顯示音量大小",
+        img: "samples/zh-hant/extension/f04.jpg",
+        json: "samples/zh-hant/extension/f04.json"
+      },
+      g01:{
+        text: "( 人臉＆顏色追蹤 ) 追蹤人臉位置與數量",
+        img: "samples/zh-hant/extension/g01.jpg",
+        json: "samples/zh-hant/extension/g01.json"
+      },
+      g02:{
+        text: "( 人臉＆顏色追蹤 ) 小怪獸跟隨人臉移動",
+        img: "samples/zh-hant/extension/g02.jpg",
+        json: "samples/zh-hant/extension/g02.json"
+      },
+      g03:{
+        text: "( 人臉＆顏色追蹤 ) 小怪獸顯示追蹤的顏色",
+        img: "samples/zh-hant/extension/g03.jpg",
+        json: "samples/zh-hant/extension/g03.json"
+      },
+      h01:{
+        text: "( 影像偵測 ) 隔空碰觸小怪獸",
+        img: "samples/zh-hant/extension/h01.jpg",
+        json: "samples/zh-hant/extension/h01.json"
+      },
+      h02:{
+        text: "( 影像偵測 ) 隔空揮手不讓怪獸掉落",
+        img: "samples/zh-hant/extension/h02.jpg",
+        json: "samples/zh-hant/extension/h02.json"
+      }
     }
   },
   catBasicFeature: "基礎功能",
