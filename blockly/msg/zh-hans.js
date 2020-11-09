@@ -170,12 +170,12 @@ var MSG = {
   webbitMenuMoreExtensionBtn: "扩展",
   webbitMenuStore: "购买套件",
   webbitMenuMoreWifiOnly: "Wi-Fi 限制",
-  webbitMenuMoreDisabled: "无法使用",
+  webbitMenuMoreDisabled: "無法使用",
   webbitMenuMoreCommingSoon: "即将推出",
   webbitMenuMoreDownload: "下载安装",
-  webbitMenuMorePreview: "网页预览",
-  webbitQrcodePreviewTitle: "网页预览",
-  webbitQrcodePreviewURL: "开启连结预览",
+  webbitMenuMorePreview: "網頁預覽",
+  webbitQrcodePreviewTitle: "網頁預覽",
+  webbitQrcodePreviewURL: "開啟連結預覽",
   webbitMenuRun: "执行",
   webbitMenuStop: "停止",
   webbitMenuTutorialsURL: "https://webbit.webduino.io/tutorials/doc/zh-cn/education/index.html",
@@ -191,17 +191,17 @@ var MSG = {
       weather: "即时气象",
       radio: "网络广播",
       line: "LINE",
-      microphone: "录音＆音量",
+      microphone: "錄音＆音量",
       youtube: "Youtube",
-      trackingjs: "人脸＆颜色追踪",
-      videoSensing: "视讯侦测",
+      trackingjs: "人臉＆顏色追蹤",
+      videoSensing: "視訊偵測",
       basicPackage: "基础套件包",
       carPackage: "小车套件包",
-      fullPackage: "扩充套件包",
+      fullPackage: "擴充套件包",
       sensorBoard: "Sensor Board"
     },
     interaction:{
-      title: "影音互动"
+      title: "影音互動"
     },
     package: {
       title: "物联网开发套件",
@@ -211,7 +211,7 @@ var MSG = {
       title: "其他",
       picture: "图片",
       text: "文字",
-      pm25: "PM2.5 检测器"
+      pm25: "PM2.5 感測器"
     }
   },
   webbitSampleTitleH2: "选择示例",
@@ -219,370 +219,383 @@ var MSG = {
     s0: "基础操作",
     s1: "进阶控制",
     bits: "Web:Bit 物联网入门",
-    bita: "Web:Bit 物联网进阶"
+    bita: "Web:Bit 物联网进阶",
+    extensions: ""
   },
-  webbitSample: {
-    s0: {
-      s01: {
+  webbitSamples: [
+    {
+      title: "基礎操作",
+      shortTitle: "基礎",
+      data: [{
         text: "小怪兽说话",
         img: "samples/zh-hans/s0-01.jpg",
         json: "samples/zh-hans/s0-01.json"
       },
-      s02: {
+      {
         text: "点击小怪兽就会放大",
         img: "samples/zh-hans/s0-02.jpg",
         json: "samples/zh-hans/s0-02.json"
       },
-      s03: {
+      {
         text: "键盘控制小怪兽",
         img: "samples/zh-hans/s0-03.jpg",
         json: "samples/zh-hans/s0-03.json"
       },
-      s04: {
+      {
         text: "小怪兽自动旋转",
         img: "samples/zh-hans/s0-04.jpg",
         json: "samples/zh-hans/s0-04.json"
       },
-      s05: {
+      {
         text: "小怪兽移动时碰到边缘反弹",
         img: "samples/zh-hans/s0-05.jpg",
         json: "samples/zh-hans/s0-05.json"
       },
-      s06: {
+      {
         text: "小怪兽报时 ( 小时钟 )",
         img: "samples/zh-hans/s0-06.jpg",
         json: "samples/zh-hans/s0-06.json"
       },
-      s07: {
+      {
         text: "小怪兽比较数字大小",
         img: "samples/zh-hans/s0-07.jpg",
         json: "samples/zh-hans/s0-07.json"
       },
-      s08: {
+      {
         text: "小怪兽说出随机内容",
         img: "samples/zh-hans/s0-08.jpg",
         json: "samples/zh-hans/s0-08.json"
       },
-      s09: {
+      {
         text: "小怪兽上下移动",
         img: "samples/zh-hans/s0-09.jpg",
         json: "samples/zh-hans/s0-09.json"
       },
-      s10: {
+      {
         text: "点击小怪兽说话发声",
         img: "samples/zh-hans/s0-10.jpg",
         json: "samples/zh-hans/s0-10.json"
       },
-      s11: {
+      {
         text: "小怪兽跟随鼠标移动并旋转",
         img: "samples/zh-hans/s0-11.jpg",
         json: "samples/zh-hans/s0-11.json"
       },
-      s12: {
+      {
         text: "点击小怪兽发出各种音效",
         img: "samples/zh-hans/s0-12.jpg",
         json: "samples/zh-hans/s0-12.json"
-      }
+      }]
     },
-    s1: {
-      s01: {
+    {
+      title: "进阶控制",
+      shortTitle: "进阶",
+      data: [{
         text: "小怪兽边移动边旋转",
         img: "samples/zh-hans/s1-01.jpg",
         json: "samples/zh-hans/s1-01.json"
       },
-      s02: {
+      {
         text: "小怪兽自动依序改变尺寸",
         img: "samples/zh-hans/s1-02.jpg",
         json: "samples/zh-hans/s1-02.json"
       },
-      s03: {
+      {
         text: "声控改变小怪兽尺寸",
         img: "samples/zh-hans/s1-03.jpg",
         json: "samples/zh-hans/s1-03.json"
       },
-      s04: {
+      {
         text: "乐透电脑自动选号",
         img: "samples/zh-hans/s1-04.jpg",
         json: "samples/zh-hans/s1-04.json"
       },
-      s05: {
+      {
         text: "小怪兽依序说话",
         img: "samples/zh-hans/s1-05.jpg",
         json: "samples/zh-hans/s1-05.json"
       },
-      s06: {
+      {
         text: "依序输入文本让小怪兽说话",
         img: "samples/zh-hans/s1-06.jpg",
         json: "samples/zh-hans/s1-06.json"
       },
-      s07: {
+      {
         text: "输入文本指定小怪兽说话",
         img: "samples/zh-hans/s1-07.jpg",
         json: "samples/zh-hans/s1-07.json"
       },
-      s08: {
+      {
         text: "小怪兽连续问答",
         img: "samples/zh-hans/s1-08.jpg",
         json: "samples/zh-hans/s1-08.json"
       },
-      s09: {
+      {
         text: "小怪兽学九九乘法表",
         img: "samples/zh-hans/s1-09.jpg",
         json: "samples/zh-hans/s1-09.json"
       },
-      s10: {
+      {
         text: "小怪兽语音朗读稿件",
         img: "samples/zh-hans/s1-10.jpg",
         json: "samples/zh-hans/s1-10.json"
       },
-      s11: {
+      {
         text: "键盘控制小怪兽，碰到其他小怪兽就说话",
         img: "samples/zh-hans/s1-11.jpg",
         json: "samples/zh-hans/s1-11.json"
       },
-      s12: {
+      {
         text: "小怪兽描述舞台尺寸，改变高度时改变颜色",
         img: "samples/zh-hans/s1-12.jpg",
         json: "samples/zh-hans/s1-12.json"
-      }
+      }]
     },
-    bits: {
-      s01: {
+    {
+      title: "Web:Bit 物联网入门",
+      shortTitle: "物联网入门",
+      data: [{
         text: "LED 矩阵展示图形",
         img: "samples/zh-hans/bit-s-01.jpg",
         json: "samples/zh-hans/bit-s-01.json"
       },
-      s02: {
+      {
         text: "LED 矩阵心跳动画",
         img: "samples/zh-hans/bit-s-02.jpg",
         json: "samples/zh-hans/bit-s-02.json"
       },
-      s03: {
+      {
         text: "按钮开关切换见到见到、石头、布",
         img: "samples/zh-hans/bit-s-03.jpg",
         json: "samples/zh-hans/bit-s-03.json"
       },
-      s04: {
+      {
         text: "按钮开关控制小怪兽尺寸",
         img: "samples/zh-hans/bit-s-04.jpg",
         json: "samples/zh-hans/bit-s-04.json"
       },
-      s05: {
+      {
         text: "点击小怪兽切换图案",
         img: "samples/zh-hans/bit-s-05.jpg",
         json: "samples/zh-hans/bit-s-05.json"
       },
-      s06: {
+      {
         text: "按钮开关控制小怪兽自动旋转、停止旋转",
         img: "samples/zh-hans/bit-s-06.jpg",
         json: "samples/zh-hans/bit-s-06.json"
       },
-      s07: {
+      {
         text: "小怪兽说出光照度和温度",
         img: "samples/zh-hans/bit-s-07.jpg",
         json: "samples/zh-hans/bit-s-07.json"
       },
-      s08: {
+      {
         text: "光照度切换LED 矩阵图形",
         img: "samples/zh-hans/bit-s-08.jpg",
         json: "samples/zh-hans/bit-s-08.json"
       },
-      s09: {
+      {
         text: "蜂鸣器播放音乐",
         img: "samples/zh-hans/bit-s-09.jpg",
         json: "samples/zh-hans/bit-s-09.json"
       },
-      s10: {
+      {
         text: "点击不同小怪兽，播放不同音乐",
         img: "samples/zh-hans/bit-s-10.jpg",
         json: "samples/zh-hans/bit-s-10.json"
       },
-      s11: {
+      {
         text: "旋转开发板切换图案",
         img: "samples/zh-hans/bit-s-11.jpg",
         json: "samples/zh-hans/bit-s-11.json"
       },
-      s12: {
+      {
         text: "电子骰子",
         img: "samples/zh-hans/bit-s-12.jpg",
         json: "samples/zh-hans/bit-s-12.json"
-      }
+      }]
     },
-    bita: {
-      s01: {
+    {
+      title: "Web:Bit 物联网进阶",
+      shortTitle: "物联网进阶",
+      data: [
+      {
         text: "输入文本控制灯号",
         img: "samples/zh-hans/bit-a-01.jpg",
         json: "samples/zh-hans/bit-a-01.json"
       },
-      s02: {
+      {
         text: "灯号依序水平移动",
         img: "samples/zh-hans/bit-a-02.jpg",
         json: "samples/zh-hans/bit-a-02.json"
       },
-      s03: {
+      {
         text: "灯号依序绕着四周移动",
         img: "samples/zh-hans/bit-a-03.jpg",
         json: "samples/zh-hans/bit-a-03.json"
       },
-      s04: {
+      {
         text: "灯号水平反弹移动",
         img: "samples/zh-hans/bit-a-04.jpg",
         json: "samples/zh-hans/bit-a-04.json"
       },
-      s05: {
+      {
         text: "灯号反弹球效果",
         img: "samples/zh-hans/bit-a-05.jpg",
         json: "samples/zh-hans/bit-a-05.json"
       },
-      s06: {
+      {
         text: "键盘操控灯号移动",
         img: "samples/zh-hans/bit-a-06.jpg",
         json: "samples/zh-hans/bit-a-06.json"
       },
-      s07: {
+      {
         text: "转动开发板控制灯号移动",
         img: "samples/zh-hans/bit-a-07.jpg",
         json: "samples/zh-hans/bit-a-07.json"
       },
-      s08: {
+      {
         text: "加速度拳力检测器",
         img: "samples/zh-hans/bit-a-08.jpg",
         json: "samples/zh-hans/bit-a-08.json"
-      },
+      }],
     },
-    extension:{
-      a01:{
+    {
+      title: "扩充套件",
+      shortTitle: "扩充",
+      data: [
+      {
         text: "( 试算表 ) 使用回圈写入资料",
         img: "samples/zh-hant/extension/a01.jpg",
         json: "samples/zh-hant/extension/a01.json"
       },
-      a02:{
+      {
         text: "( 试算表 ) 写入阵列资料",
         img: "samples/zh-hant/extension/a02.jpg",
         json: "samples/zh-hant/extension/a02.json"
       },
-      a03:{
+      {
         text: "( 试算表 ) 按压按钮开关写入资料",
         img: "samples/zh-hant/extension/a03.jpg",
         json: "samples/zh-hant/extension/a03.json"
       },
-      a04:{
+      {
         text: "( 试算表 ) 纪录环境亮度",
         img: "samples/zh-hant/extension/a04.jpg",
         json: "samples/zh-hant/extension/a04.json"
       },
-      a05:{
+      {
         text: "( 试算表 ) 读取特定储存格资料",
         img: "samples/zh-hant/extension/a05.jpg",
         json: "samples/zh-hant/extension/a05.json"
       },
-      a06:{
+      {
         text: "( 试算表 ) 读取所有资料，透过阵列呈现",
         img: "samples/zh-hant/extension/a06.jpg",
         json: "samples/zh-hant/extension/a06.json"
       },
-      b01:{
+      {
         text: "( 气象资讯 ) 读取天气资讯",
         img: "samples/zh-hant/extension/b01.jpg",
         json: "samples/zh-hant/extension/b01.json"
       },
-      b02:{
+      {
         text: "( 气象资讯 ) 透过灯光颜色显示空气品质",
         img: "samples/zh-hant/extension/b02.jpg",
         json: "samples/zh-hant/extension/b02.json"
       },
-      b03:{
+      {
         text: "( 气象资讯 ) 背景显示雷达回波图",
         img: "samples/zh-hant/extension/b03.jpg",
         json: "samples/zh-hant/extension/b03.json"
       },
-      c01:{
+      {
         text: "( 网路广播 ) 点击小怪兽发送广播讯号",
         img: "samples/zh-hant/extension/c01.jpg",
         json: "samples/zh-hant/extension/c01.json"
       },
-      c02:{
+      {
         text: "( 网路广播 ) 发送广播讯号控制灯光颜色",
         img: "samples/zh-hant/extension/c02.jpg",
         json: "samples/zh-hant/extension/c02.json"
       },
-      d01:{
+      {
         text: "( LINE ) 点击怪兽发送 LINE Notify",
         img: "samples/zh-hant/extension/d01.jpg",
         json: "samples/zh-hant/extension/d01.json"
       },
-      d02:{
+      {
         text: "( LINE ) 点击 Web:Bit 开关发送 LINE Notify",
         img: "samples/zh-hant/extension/d02.jpg",
         json: "samples/zh-hant/extension/d02.json"
       },
-      d03:{
+      {
         text: "( LINE ) LINE 控制 Web:Bit",
         img: "samples/zh-hant/extension/d03.jpg",
         json: "samples/zh-hant/extension/d03.json"
       },
-      d04:{
+      {
         text: "( LINE ) Web:Bit 侦测光线发送 LINE Notify",
         img: "samples/zh-hant/extension/d04.jpg",
         json: "samples/zh-hant/extension/d04.json"
       },
-      e01:{
+      {
         text: "( Youtube ) 按鈕開關控制影片播放",
         img: "samples/zh-hant/extension/e01.jpg",
         json: "samples/zh-hant/extension/e01.json"
       },
-      e02:{
+      {
         text: "( Youtube ) 偵測光線控制影片播放速度",
         img: "samples/zh-hant/extension/e02.jpg",
         json: "samples/zh-hant/extension/e02.json"
       },
-      f01:{
+      {
         text: "( 錄音＆音量 ) 基本錄音與播放",
         img: "samples/zh-hant/extension/f01.jpg",
         json: "samples/zh-hant/extension/f01.json"
       },
-      f02:{
+      {
         text: "( 錄音＆音量 ) 使用陣列連續錄音與播放",
         img: "samples/zh-hant/extension/f02.jpg",
         json: "samples/zh-hant/extension/f02.json"
       },
-      f03:{
+      {
         text: "( 錄音＆音量 ) 麥克風音量控制小怪獸尺寸",
         img: "samples/zh-hant/extension/f03.jpg",
         json: "samples/zh-hant/extension/f03.json"
       },
-      f04:{
+      {
         text: "( 錄音＆音量 ) 矩陣 LED 顯示音量大小",
         img: "samples/zh-hant/extension/f04.jpg",
         json: "samples/zh-hant/extension/f04.json"
       },
-      g01:{
+      {
         text: "( 人臉＆顏色追蹤 ) 追蹤人臉位置與數量",
         img: "samples/zh-hant/extension/g01.jpg",
         json: "samples/zh-hant/extension/g01.json"
       },
-      g02:{
+      {
         text: "( 人臉＆顏色追蹤 ) 小怪獸跟隨人臉移動",
         img: "samples/zh-hant/extension/g02.jpg",
         json: "samples/zh-hant/extension/g02.json"
       },
-      g03:{
+      {
         text: "( 人臉＆顏色追蹤 ) 小怪獸顯示追蹤的顏色",
         img: "samples/zh-hant/extension/g03.jpg",
         json: "samples/zh-hant/extension/g03.json"
       },
-      h01:{
+      {
         text: "( 影像偵測 ) 隔空碰觸小怪獸",
         img: "samples/zh-hant/extension/h01.jpg",
         json: "samples/zh-hant/extension/h01.json"
       },
-      h02:{
+      {
         text: "( 影像偵測 ) 隔空揮手不讓怪獸掉落",
         img: "samples/zh-hant/extension/h02.jpg",
         json: "samples/zh-hant/extension/h02.json"
-      }
+      }]
     }
-  },
+  ],
   catBasicFeature: "基础功能",
   catAdvancedFeature: "进阶功能",
 };
