@@ -207,380 +207,382 @@ var MSG = {
     other: {
       title: "其他功能",
       picture: "圖片",
-      text: "文字",
-      pm25: "PM2.5 感測器"
+      text: "文字"
     }
   },
   webbitSampleTitleH2: "選擇範例",
-  webbitSampleTitleH3: {
-    s0: "基礎操作",
-    s1: "進階控制",
-    bits: "Web:Bit 物聯網入門",
-    bita: "Web:Bit 物聯網進階",
-    extension: "擴充功能"
-  },
-  webbitSample: {
-    s0: {
-      s01: {
+  webbitSamples: [
+    {
+      title: "基礎操作",
+      shortTitle: "基礎",
+      data: [{
         text: "小怪獸講話",
         img: "samples/zh-hant/s0-01.jpg",
         json: "samples/zh-hant/s0-01.json"
       },
-      s02: {
+      {
         text: "點擊小怪獸就會放大",
         img: "samples/zh-hant/s0-02.jpg",
         json: "samples/zh-hant/s0-02.json"
       },
-      s03: {
+      {
         text: "鍵盤控制小怪獸",
         img: "samples/zh-hant/s0-03.jpg",
         json: "samples/zh-hant/s0-03.json"
       },
-      s04: {
+      {
         text: "小怪獸自動旋轉",
         img: "samples/zh-hant/s0-04.jpg",
         json: "samples/zh-hant/s0-04.json"
       },
-      s05: {
+      {
         text: "小怪獸移動時碰到邊緣反彈",
         img: "samples/zh-hant/s0-05.jpg",
         json: "samples/zh-hant/s0-05.json"
       },
-      s06: {
+      {
         text: "小怪獸報時 ( 小時鐘 )",
         img: "samples/zh-hant/s0-06.jpg",
         json: "samples/zh-hant/s0-06.json"
       },
-      s07: {
+      {
         text: "小怪獸比賽數字大小",
         img: "samples/zh-hant/s0-07.jpg",
         json: "samples/zh-hant/s0-07.json"
       },
-      s08: {
+      {
         text: "小怪獸講出隨機話語",
         img: "samples/zh-hant/s0-08.jpg",
         json: "samples/zh-hant/s0-08.json"
       },
-      s09: {
+      {
         text: "小怪獸上下移動",
         img: "samples/zh-hant/s0-09.jpg",
         json: "samples/zh-hant/s0-09.json"
       },
-      s10: {
+      {
         text: "點擊小怪獸講話發聲",
         img: "samples/zh-hant/s0-10.jpg",
         json: "samples/zh-hant/s0-10.json"
       },
-      s11: {
+      {
         text: "小怪獸跟著滑鼠移動並旋轉",
         img: "samples/zh-hant/s0-11.jpg",
         json: "samples/zh-hant/s0-11.json"
       },
-      s12: {
+      {
         text: "點擊小怪獸發出各種音效",
         img: "samples/zh-hant/s0-12.jpg",
         json: "samples/zh-hant/s0-12.json"
-      }
+      }]
     },
-    s1: {
-      s01: {
+    {
+      title: "進階操作",
+      shortTitle: "進階",
+      data: [{
         text: "小怪獸邊移動邊旋轉",
         img: "samples/zh-hant/s1-01.jpg",
         json: "samples/zh-hant/s1-01.json"
       },
-      s02: {
+      {
         text: "小怪獸自動依序改變尺寸",
         img: "samples/zh-hant/s1-02.jpg",
         json: "samples/zh-hant/s1-02.json"
       },
-      s03: {
+      {
         text: "聲控改變小怪獸尺寸",
         img: "samples/zh-hant/s1-03.jpg",
         json: "samples/zh-hant/s1-03.json"
       },
-      s04: {
+      {
         text: "樂透電腦自動選號",
         img: "samples/zh-hant/s1-04.jpg",
         json: "samples/zh-hant/s1-04.json"
       },
-      s05: {
+      {
         text: "小怪獸依序講話",
         img: "samples/zh-hant/s1-05.jpg",
         json: "samples/zh-hant/s1-05.json"
       },
-      s06: {
+      {
         text: "依序輸入文字讓小怪獸講話",
         img: "samples/zh-hant/s1-06.jpg",
         json: "samples/zh-hant/s1-06.json"
       },
-      s07: {
+      {
         text: "輸入文字指定小怪獸講話",
         img: "samples/zh-hant/s1-07.jpg",
         json: "samples/zh-hant/s1-07.json"
       },
-      s08: {
+      {
         text: "小怪獸連續問答",
         img: "samples/zh-hant/s1-08.jpg",
         json: "samples/zh-hant/s1-08.json"
       },
-      s09: {
+      {
         text: "小怪獸學九九乘法",
         img: "samples/zh-hant/s1-09.jpg",
         json: "samples/zh-hant/s1-09.json"
       },
-      s10: {
+      {
         text: "小怪獸語音朗讀逐字稿",
         img: "samples/zh-hant/s1-10.jpg",
         json: "samples/zh-hant/s1-10.json"
       },
-      s11: {
+      {
         text: "鍵盤操控小怪獸，碰到其他小怪獸就說話",
         img: "samples/zh-hant/s1-11.jpg",
         json: "samples/zh-hant/s1-11.json"
       },
-      s12: {
+      {
         text: "小怪獸描述舞台尺寸，改變高度時改變顏色",
         img: "samples/zh-hant/s1-12.jpg",
         json: "samples/zh-hant/s1-12.json"
-      }
+      }]
     },
-    bits: {
-      s01: {
+    {
+      title: "Web:Bit 物聯網入門",
+      shortTitle: "物聯網入門",
+      data: [{
         text: "矩陣 LED 顯示圖形",
         img: "samples/zh-hant/bit-s-01.jpg",
         json: "samples/zh-hant/bit-s-01.json"
       },
-      s02: {
+      {
         text: "矩陣 LED 心跳動畫",
         img: "samples/zh-hant/bit-s-02.jpg",
         json: "samples/zh-hant/bit-s-02.json"
       },
-      s03: {
+      {
         text: "按鈕開關切換剪刀、石頭、布",
         img: "samples/zh-hant/bit-s-03.jpg",
         json: "samples/zh-hant/bit-s-03.json"
       },
-      s04: {
+      {
         text: "按鈕開關控制小怪獸尺寸",
         img: "samples/zh-hant/bit-s-04.jpg",
         json: "samples/zh-hant/bit-s-04.json"
       },
-      s05: {
+      {
         text: "點擊小怪獸切換圖案",
         img: "samples/zh-hant/bit-s-05.jpg",
         json: "samples/zh-hant/bit-s-05.json"
       },
-      s06: {
+      {
         text: "按鈕開關控制小怪獸自動旋轉、停止旋轉",
         img: "samples/zh-hant/bit-s-06.jpg",
         json: "samples/zh-hant/bit-s-06.json"
       },
-      s07: {
+      {
         text: "小怪獸講出光度和溫度",
         img: "samples/zh-hant/bit-s-07.jpg",
         json: "samples/zh-hant/bit-s-07.json"
       },
-      s08: {
+      {
         text: "光度切換矩陣 LED 圖形",
         img: "samples/zh-hant/bit-s-08.jpg",
         json: "samples/zh-hant/bit-s-08.json"
       },
-      s09: {
+      {
         text: "蜂鳴器播放音樂",
         img: "samples/zh-hant/bit-s-09.jpg",
         json: "samples/zh-hant/bit-s-09.json"
       },
-      s10: {
+      {
         text: "點擊不同小怪獸，播放不同音樂",
         img: "samples/zh-hant/bit-s-10.jpg",
         json: "samples/zh-hant/bit-s-10.json"
       },
-      s11: {
+      {
         text: "旋轉開發板切換圖案",
         img: "samples/zh-hant/bit-s-11.jpg",
         json: "samples/zh-hant/bit-s-11.json"
       },
-      s12: {
+      {
         text: "電子骰子",
         img: "samples/zh-hant/bit-s-12.jpg",
         json: "samples/zh-hant/bit-s-12.json"
-      }
+      }]
     },
-    bita: {
-      s01: {
+    {
+      title: "Web:Bit 物聯網進階",
+      shortTitle: "物聯網進階",
+      data: [{
         text: "輸入文字控制燈號",
         img: "samples/zh-hant/bit-a-01.jpg",
         json: "samples/zh-hant/bit-a-01.json"
       },
-      s02: {
+      {
         text: "燈號依序水平移動",
         img: "samples/zh-hant/bit-a-02.jpg",
         json: "samples/zh-hant/bit-a-02.json"
       },
-      s03: {
+      {
         text: "燈號依序繞著周圍移動",
         img: "samples/zh-hant/bit-a-03.jpg",
         json: "samples/zh-hant/bit-a-03.json"
       },
-      s04: {
+      {
         text: "燈號水平反彈移動",
         img: "samples/zh-hant/bit-a-04.jpg",
         json: "samples/zh-hant/bit-a-04.json"
       },
-      s05: {
+      {
         text: "燈號反彈球效果",
         img: "samples/zh-hant/bit-a-05.jpg",
         json: "samples/zh-hant/bit-a-05.json"
       },
-      s06: {
+      {
         text: "鍵盤操控燈號移動",
         img: "samples/zh-hant/bit-a-06.jpg",
         json: "samples/zh-hant/bit-a-06.json"
       },
-      s07: {
+      {
         text: "轉動開發板控制燈號移動",
         img: "samples/zh-hant/bit-a-07.jpg",
         json: "samples/zh-hant/bit-a-07.json"
       },
-      s08: {
+      {
         text: "加速度拳力偵測器",
         img: "samples/zh-hant/bit-a-08.jpg",
         json: "samples/zh-hant/bit-a-08.json"
-      },
+      }],
     },
-    extension:{
-      a01:{
+    {
+      title: "擴充套件",
+      shortTitle: "擴充",
+      data: [{
         text: "( 試算表 ) 使用迴圈寫入資料",
         img: "samples/zh-hant/extension/a01.jpg",
         json: "samples/zh-hant/extension/a01.json"
       },
-      a02:{
+      {
         text: "( 試算表 ) 寫入陣列資料",
         img: "samples/zh-hant/extension/a02.jpg",
         json: "samples/zh-hant/extension/a02.json"
       },
-      a03:{
+      {
         text: "( 試算表 ) 按壓按鈕開關寫入資料",
         img: "samples/zh-hant/extension/a03.jpg",
         json: "samples/zh-hant/extension/a03.json"
       },
-      a04:{
+      {
         text: "( 試算表 ) 紀錄環境亮度",
         img: "samples/zh-hant/extension/a04.jpg",
         json: "samples/zh-hant/extension/a04.json"
       },
-      a05:{
+      {
         text: "( 試算表 ) 讀取特定儲存格資料",
         img: "samples/zh-hant/extension/a05.jpg",
         json: "samples/zh-hant/extension/a05.json"
       },
-      a06:{
+      {
         text: "( 試算表 ) 讀取所有資料，透過陣列呈現",
         img: "samples/zh-hant/extension/a06.jpg",
         json: "samples/zh-hant/extension/a06.json"
       },
-      b01:{
+      {
         text: "( 氣象資訊 ) 讀取天氣資訊",
         img: "samples/zh-hant/extension/b01.jpg",
         json: "samples/zh-hant/extension/b01.json"
       },
-      b02:{
+      {
         text: "( 氣象資訊 ) 透過燈光顏色顯示空氣品質",
         img: "samples/zh-hant/extension/b02.jpg",
         json: "samples/zh-hant/extension/b02.json"
       },
-      b03:{
+      {
         text: "( 氣象資訊 ) 背景顯示雷達回波圖",
         img: "samples/zh-hant/extension/b03.jpg",
         json: "samples/zh-hant/extension/b03.json"
       },
-      c01:{
+      {
         text: "( 網路廣播 ) 點擊小怪獸發送廣播訊號",
         img: "samples/zh-hant/extension/c01.jpg",
         json: "samples/zh-hant/extension/c01.json"
       },
-      c02:{
+      {
         text: "( 網路廣播 ) 發送廣播訊號控制燈光顏色",
         img: "samples/zh-hant/extension/c02.jpg",
         json: "samples/zh-hant/extension/c02.json"
       },
-      d01:{
+      {
         text: "( LINE ) 點擊怪獸發送 LINE Notify",
         img: "samples/zh-hant/extension/d01.jpg",
         json: "samples/zh-hant/extension/d01.json"
       },
-      d02:{
+      {
         text: "( LINE ) 點擊按鈕開關發送 LINE Notify",
         img: "samples/zh-hant/extension/d02.jpg",
         json: "samples/zh-hant/extension/d02.json"
       },
-      d03:{
+      {
         text: "( LINE ) LINE 控制 Web:Bit",
         img: "samples/zh-hant/extension/d03.jpg",
         json: "samples/zh-hant/extension/d03.json"
       },
-      d04:{
+      {
         text: "( LINE ) 偵測光線發送 LINE Notify",
         img: "samples/zh-hant/extension/d04.jpg",
         json: "samples/zh-hant/extension/d04.json"
       },
-      e01:{
+      {
         text: "( Youtube ) 按鈕開關控制影片播放",
         img: "samples/zh-hant/extension/e01.jpg",
         json: "samples/zh-hant/extension/e01.json"
       },
-      e02:{
+      {
         text: "( Youtube ) 偵測光線控制影片播放速度",
         img: "samples/zh-hant/extension/e02.jpg",
         json: "samples/zh-hant/extension/e02.json"
       },
-      f01:{
+      {
         text: "( 錄音＆音量 ) 基本錄音與播放",
         img: "samples/zh-hant/extension/f01.jpg",
         json: "samples/zh-hant/extension/f01.json"
       },
-      f02:{
+      {
         text: "( 錄音＆音量 ) 使用陣列連續錄音與播放",
         img: "samples/zh-hant/extension/f02.jpg",
         json: "samples/zh-hant/extension/f02.json"
       },
-      f03:{
+      {
         text: "( 錄音＆音量 ) 麥克風音量控制小怪獸尺寸",
         img: "samples/zh-hant/extension/f03.jpg",
         json: "samples/zh-hant/extension/f03.json"
       },
-      f04:{
+      {
         text: "( 錄音＆音量 ) 矩陣 LED 顯示音量大小",
         img: "samples/zh-hant/extension/f04.jpg",
         json: "samples/zh-hant/extension/f04.json"
       },
-      g01:{
+      {
         text: "( 人臉＆顏色追蹤 ) 追蹤人臉位置與數量",
         img: "samples/zh-hant/extension/g01.jpg",
         json: "samples/zh-hant/extension/g01.json"
       },
-      g02:{
+      {
         text: "( 人臉＆顏色追蹤 ) 小怪獸跟隨人臉移動",
         img: "samples/zh-hant/extension/g02.jpg",
         json: "samples/zh-hant/extension/g02.json"
       },
-      g03:{
+      {
         text: "( 人臉＆顏色追蹤 ) 小怪獸顯示追蹤的顏色",
         img: "samples/zh-hant/extension/g03.jpg",
         json: "samples/zh-hant/extension/g03.json"
       },
-      h01:{
+      {
         text: "( 影像偵測 ) 隔空碰觸小怪獸",
         img: "samples/zh-hant/extension/h01.jpg",
         json: "samples/zh-hant/extension/h01.json"
       },
-      h02:{
+      {
         text: "( 影像偵測 ) 隔空揮手不讓怪獸掉落",
         img: "samples/zh-hant/extension/h02.jpg",
         json: "samples/zh-hant/extension/h02.json"
-      }
+      }]
     }
-  },
+  ],
   catBasicFeature: "基礎功能",
   catAdvancedFeature: "進階功能",
 };
