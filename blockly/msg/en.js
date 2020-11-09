@@ -207,7 +207,8 @@ var MSG = {
     other: {
       title: "Other",
       picture: "Picture",
-      text: "Text"
+      text: "Text",
+      pm25: "PM2.5"
     }
   },
   webbitSampleTitleH2: "Choose sample",

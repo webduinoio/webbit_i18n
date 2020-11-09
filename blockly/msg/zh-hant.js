@@ -207,7 +207,8 @@ var MSG = {
     other: {
       title: "其他功能",
       picture: "圖片",
-      text: "文字"
+      text: "文字",
+      pm25: "PM2.5 感測器"
     }
   },
   webbitSampleTitleH2: "選擇範例",
