@@ -198,6 +198,7 @@ var MSG = {
       basicPackage: "基础套件包",
       carPackage: "小车套件包",
       fullPackage: "擴充套件包",
+      englishConversation: "英语会话",
       sensorBoard: "Sensor Board"
     },
     interaction:{
