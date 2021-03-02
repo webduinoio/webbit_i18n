@@ -195,6 +195,7 @@ var MSG = {
       basicPackage: "Basic Package",
       carPackage: "Toy Car Package",
       fullPackage: "Extension Package",
+      englishConversation: "English Conversation",
       sensorBoard: "Sensor Board"
     },
     interaction:{
@@ -217,7 +218,7 @@ var MSG = {
       title: "Basic control",
       shortTitle: "Basic control",
       data: [{
-        text: "Talking", 
+        text: "Talking",
         img: "samples/en/s0-01.jpg",
         json: "samples/en/s0-01.json"
       },
