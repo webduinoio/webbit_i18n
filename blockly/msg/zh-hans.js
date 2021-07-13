@@ -212,7 +212,8 @@ var MSG = {
       title: "其他",
       picture: "图片",
       text: "文字",
-      pm25: "PM2.5 感測器"
+      pm25: "PM2.5 感測器",
+      egamePicture: "E-game 图库"
     }
   },
   webbitSampleTitleH2: "选择示例",
