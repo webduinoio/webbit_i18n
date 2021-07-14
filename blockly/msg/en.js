@@ -209,7 +209,8 @@ var MSG = {
       title: "Other",
       picture: "Picture",
       text: "Text",
-      pm25: "PM2.5"
+      pm25: "PM2.5",
+      egamePicture: "E-game Library"
     }
   },
   webbitSampleTitleH2: "Choose sample",
