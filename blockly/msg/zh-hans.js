@@ -178,8 +178,8 @@ var MSG = {
   webbitQrcodePreviewURL: "開啟連結預覽",
   webbitMenuRun: "执行",
   webbitMenuStop: "停止",
-  webbitMenuTutorialsURL: "https://webbit.webduino.io/tutorials/doc/zh-cn/kebbi/index.html",
-  webbitMenuTutorialsURL_staging: "https://testwbit.webduino.tw/tutorials/doc/zh-cn/kebbi/index.html",
+  webbitMenuTutorialsURL: "https://webbit.webduino.io/tutorials/doc/zh-cn/education/index.html",
+  webbitMenuTutorialsURL_staging: "https://testwbit.webduino.tw/tutorials/doc/zh-cn/education/index.html",
   webbitMenuDownloadURL: "https://ota.webduino.com.cn/WebBitInstaller/WebBitSetup.exe",
   webbitExtensionTitleH2: "选择扩充功能",
   webbitExtensionTitleH3: {
