@@ -175,8 +175,8 @@ var MSG = {
   webbitQrcodePreviewURL: "Preview Link",
   webbitMenuRun: "Run",
   webbitMenuStop: "Stop",
-  webbitMenuTutorialsURL: "https://webbit.webduino.io/tutorials/doc/zh-tw/education/index.html",
-  webbitMenuTutorialsURL_staging: "https://testwbit.webduino.tw/tutorials/doc/zh-tw/education/index.html",
+  webbitMenuTutorialsURL: "https://webbit.webduino.io/tutorials/doc/zh-tw/kebbi/index.html",
+  webbitMenuTutorialsURL_staging: "https://testwbit.webduino.tw/tutorials/doc/zh-tw/kebbi/index.html",
   webbitMenuDownloadURL: "https://ota.webduino.io/WebBitInstaller/WebBitSetup.exe",
   webbitExtensionTitleH2: "Choose Extension",
   webbitExtensionTitleH3: {
