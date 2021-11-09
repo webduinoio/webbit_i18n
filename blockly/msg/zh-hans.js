@@ -600,4 +600,14 @@ var MSG = {
   ],
   catBasicFeature: "基础功能",
   catAdvancedFeature: "进阶功能",
+
+  // 學創，探寶森林
+  webbitTempoForest: {
+    hello: "哈啰！",
+    welcome: "欢迎使用 Web:Bit 教育版",
+    verificationFailed: "验证失败！",
+    returnTempoForest: "即将回到探宝森林...",
+    user: "使用者：",
+    reviewedUser: "建立者：",
+  },
 };

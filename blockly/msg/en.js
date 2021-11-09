@@ -588,4 +588,14 @@ var MSG = {
   ],
   catBasicFeature: "Basic",
   catAdvancedFeature: "Advanced",
+
+  // 學創，探寶森林
+  webbitTempoForest: {
+    hello: "Hello, ",
+    welcome: "Welcome to Web:Bit Education",
+    verificationFailed: "Verification failed!",
+    returnTempoForest: "Coming back to 探寶森林...",
+    user: "User：",
+    reviewedUser: "Creator：",
+  },
 };
