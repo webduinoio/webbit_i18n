@@ -596,5 +596,6 @@ var MSG = {
     verificationFailed: "驗證失敗！",
     returnTempoForest: "即將回到探寶森林...",
     user: "使用者：",
+    reviewedUser: "建立者：",
   },
 };
