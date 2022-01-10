@@ -40,7 +40,7 @@ Blockly.Msg.WEBDUINO_SHOCK_EVENT_TO = "时";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_DO = "执行";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_HIGH = "通电";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_LOW = "断电";
-Blockly.Msg.WEBBIT_FULL_SHOCK_HELPURL = "https://webbit.webduino.io/tutorials/doc/zh-tw/education/extension-full-package/vibration.html";
+Blockly.Msg.WEBBIT_FULL_SHOCK_HELPURL = "https://webbit.webduino.io/tutorials/doc/zh-cn/education/extension-full-package/vibration.html";
 
 Blockly.Msg.WEBDUINO_RELAY_BIT = "继电器，引脚";
 Blockly.Msg.WEBDUINO_RELAY_SET_STATE = "设定状态";
