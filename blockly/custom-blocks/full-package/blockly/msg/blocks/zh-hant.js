@@ -40,7 +40,7 @@ Blockly.Msg.WEBDUINO_SHOCK_EVENT_TO = ""; // 因應需求，所以為空值
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_DO = "執行";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_HIGH = "通電";
 Blockly.Msg.WEBDUINO_SHOCK_EVENT_LOW = "斷電";
-Blockly.Msg.WEBBIT_FULL_SHOCK_HELPURL = "https://webbit.webduino.io/tutorials/doc/zh-tw/education/extension-full-package/sound.html";
+Blockly.Msg.WEBBIT_FULL_SHOCK_HELPURL = "https://webbit.webduino.io/tutorials/doc/zh-tw/education/extension-full-package/vibration.html";
 
 Blockly.Msg.WEBDUINO_RELAY_BIT = "繼電器，腳位";
 Blockly.Msg.WEBDUINO_RELAY_SET_STATE = "設定狀態";
