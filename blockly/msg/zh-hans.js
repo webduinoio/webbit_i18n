@@ -153,6 +153,7 @@ var MSG = {
   catPin:"输入&输出",
   catBitDemoMonster: "怪兽控制",
   webbitTitle: "Web:Bit 教育版",
+  webbitTitleWithTempoForest: "Web:Bit x",
   webbitMenuBlock: "积木",
   webbitMenuJS: "代码",
   webbitMenuFile: "文件",

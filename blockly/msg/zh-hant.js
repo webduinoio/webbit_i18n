@@ -150,6 +150,7 @@ var MSG = {
   catPin:"I/O 引腳",
   catBitDemoMonster: "怪獸控制",
   webbitTitle: "Web:Bit 教育版",
+  webbitTitleWithTempoForest: "Web:Bit x",
   webbitMenuBlock: "積木",
   webbitMenuJS: "程式碼",
   webbitMenuFile: "檔案",
