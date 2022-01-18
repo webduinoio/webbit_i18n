@@ -150,6 +150,7 @@ var MSG = {
   catPin:"I/O Pins",
   catBitDemoMonster: "Monster",
   webbitTitle: "Web:Bit Education",
+  webbitTitleWithTempoForest: "Web:Bit x",
   webbitMenuBlock: "Block",
   webbitMenuJS: "Javascript",
   webbitMenuFile: "File",
@@ -588,6 +589,11 @@ var MSG = {
   ],
   catBasicFeature: "Basic",
   catAdvancedFeature: "Advanced",
+  notification: {
+    title: "Changelog",
+    remind: "Remind me of future updates",
+    close: "Close"
+  },
 
   // 學創，探寶森林
   webbitTempoForest: {
