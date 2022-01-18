@@ -601,6 +601,11 @@ var MSG = {
   ],
   catBasicFeature: "基础功能",
   catAdvancedFeature: "进阶功能",
+  notification: {
+    title: "更新讯息",
+    remind: "有更新再提醒我",
+    close: "关闭提示",
+  },
 
   // 學創，探寶森林
   webbitTempoForest: {

@@ -589,6 +589,11 @@ var MSG = {
   ],
   catBasicFeature: "基礎功能",
   catAdvancedFeature: "進階功能",
+  notification: {
+    title: "更新訊息",
+    remind: "有更新再提醒我",
+    close: "關閉提示",
+  },
 
   // 學創，探寶森林
   webbitTempoForest: {
@@ -599,4 +604,5 @@ var MSG = {
     user: "使用者：",
     reviewedUser: "建立者：",
   },
+
 };

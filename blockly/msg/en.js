@@ -589,6 +589,11 @@ var MSG = {
   ],
   catBasicFeature: "Basic",
   catAdvancedFeature: "Advanced",
+  notification: {
+    title: "Changelog",
+    remind: "Remind me of future updates",
+    close: "Close"
+  },
 
   // 學創，探寶森林
   webbitTempoForest: {
