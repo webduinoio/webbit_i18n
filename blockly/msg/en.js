@@ -185,7 +185,8 @@ var MSG = {
     fixed: "Can't remove while using.",
     internet: {
       title: "Internet",
-      googleSheet: "Google Sheet",
+      googleSheet: "Google Sheets",
+      googleSlide: "Google Slides",
       weather: "Weather",
       radio: "Internet Broadcast",
       line: "LINE",
