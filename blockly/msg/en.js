@@ -172,6 +172,8 @@ var MSG = {
   webbitMenuMoreCommingSoon: "Comming soon",
   webbitMenuMoreDownload: "Download",
   webbitMenuMorePreview: "Preview",
+  webbitMenuMoreRemote: "Webduino Mobile",
+  webbitRemoteControl: "Webduino Mobile",
   webbitQrcodePreviewTitle: "Preview",
   webbitQrcodePreviewURL: "Preview Link",
   webbitMenuRun: "Run",
