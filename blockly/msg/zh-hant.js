@@ -188,7 +188,6 @@ var MSG = {
     internet: {
       title: "網際網路",
       googleSheet: "Google 試算表",
-      googleSlide: "Google 簡報",
       weather: "即時氣象",
       radio: "網路廣播",
       line: "LINE",

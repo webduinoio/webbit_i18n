@@ -191,7 +191,6 @@ var MSG = {
     internet: {
       title: "互联网",
       googleSheet: "Google 试算表",
-      googleSlide: "Google 简报",
       weather: "即时气象",
       radio: "网络广播",
       line: "LINE",
