@@ -172,6 +172,8 @@ var MSG = {
   webbitMenuMoreCommingSoon: "即將推出",
   webbitMenuMoreDownload: "下載安裝",
   webbitMenuMorePreview: "網頁預覽",
+  webbitMenuMoreRemote: "萬用遙控",
+  webbitRemoteControl: "萬用遙控器",
   webbitQrcodePreviewTitle: "網頁預覽",
   webbitQrcodePreviewURL: "開啟連結預覽",
   webbitMenuRun: "執行",
