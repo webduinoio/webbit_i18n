@@ -12,11 +12,6 @@ var MSG = {
   UNDO: "上一步 ( Ctrl + Z )",
   CLEAN_UP: "整理積木",
   exportImage: "下載圖片",
-  userMenuDashboard: "專案",
-  userMenuTutorials: "教學",
-  userMenuApiDocs: "API 文件",
-  userMenuWebSite: "首頁",
-  userMenuLogout: "登出",
   blocks: "積木",
   changesSaved: " ( 已儲存變更 )",
   qrcodeTooltip: "產生即時預覽 QR code",
@@ -606,6 +601,11 @@ var MSG = {
     returnTempoForest: "即將回到探寶森林...",
     user: "使用者：",
     reviewedUser: "建立者：",
+  },
+
+  ERROR: {
+    DEFAULT: '發生錯誤',
+    NO_LOGIN: '請重新整理畫面，進行登入後，再進行操作。'
   },
 
 };

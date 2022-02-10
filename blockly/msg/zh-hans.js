@@ -12,11 +12,6 @@ var MSG = {
   UNDO: "上一步 ( Ctrl + Z )",
   CLEAN_UP: "整理积木",
   exportImage: "下载图片",
-  userMenuDashboard: "专案",
-  userMenuTutorials: "教学",
-  userMenuApiDocs: "API 文档",
-  userMenuWebSite: "首页",
-  userMenuLogout: "退出登录",
   blocks: "积木",
   changesSaved: " ( 已保存修改 )",
   qrcodeTooltip: "生成实时二维码",
@@ -619,4 +614,10 @@ var MSG = {
     user: "使用者：",
     reviewedUser: "建立者：",
   },
+
+  ERROR: {
+    DEFAULT: '发生错误',
+    NO_LOGIN: '请重新整理画面，进行登入后，再进行操作。'
+  },
+
 };

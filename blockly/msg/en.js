@@ -12,11 +12,6 @@ var MSG = {
   UNDO: "Undo ( Ctrl + Z )",
   CLEAN_UP: "Clean up blocks",
   exportImage: "Download Image",
-  userMenuDashboard: "Dashboard",
-  userMenuTutorials: "Tutorials",
-  userMenuApiDocs: "API Docs",
-  userMenuWebSite: "Home",
-  userMenuLogout: "Logout",
   blocks: "Blocks",
   changesSaved: "Changes Saved",
   qrcodeTooltip: "Generate preview QR code",
@@ -607,4 +602,10 @@ var MSG = {
     user: "User：",
     reviewedUser: "Creator：",
   },
+
+  ERROR: {
+    DEFAULT: 'An Error Occured',
+    NO_LOGIN: 'Please refresh the screen and log in.'
+  },
+
 };
